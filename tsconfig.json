@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "declaration": true,
+    "outDir": "./lib",
+    "strict": true,
+    "noImplicitAny": false,
+    "lib": [
+      "es2017"
+    ]
+  },
+  "include": [
+    "src/**/*.ts"
+  ],
+  "awesomeTypescriptLoaderOptions": {
+    "usePrecompiledFiles": true,
+    "useWebpackText": true
+  },
+  "exclude": ["node_modules", "**/__tests__/*"]
+}

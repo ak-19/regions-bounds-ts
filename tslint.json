@@ -1,0 +1,40 @@
+{
+   "extends": [
+    "tslint-config-prettier",
+    "backend-tslint-rules",
+    "tslint-clean-code",
+    "tslint-consistent-codestyle",
+    "tslint-sonarts"
+  ],
+  "rules": {
+    "file-name-casing": [true, "camel-case"],
+    "no-invalid-this": false,
+    "only-arrow-functions": false,
+    "no-string-literal": false,
+    "newline-per-chained-call": false,
+    "curly": false,
+    "strict-boolean-expressions": false,
+    "no-null-keyword": false,
+    "cyclomatic-complexity": false,
+    "prefer-for-of": false,
+    "cognitive-complexity": false,
+    "prefer-function-over-method": false,
+    "trailing-comma": true,
+    "no-empty": false,
+    "no-parameter-reassignment": false,
+    "unnecessary-else": false,
+    "no-small-switch": false,
+    "max-file-line-count": false,
+    "no-use-before-declare": false,
+    "object-literal-key-quotes": false,
+    "quotemark": false,
+    "whitespace": false,
+    "no-duplicate-variable": false,
+    "no-duplicate-string": false
+  },
+  "linterOptions": {
+      "exclude": [
+        "src/**/*.spec.ts"
+      ]
+  }
+ }

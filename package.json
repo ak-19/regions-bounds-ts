@@ -1,0 +1,88 @@
+{
+  "name": "regions-bounds-ts",
+  "version": "0.0.1",
+  "description": "regions bounds for TS",
+  "main": "lib/index.js",
+  "types": "./lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest --coverage",
+    "format": "prettier --write \"src/**/*.ts\" \"src/**/*.js\"",
+    "lint": "tslint -p tsconfig.json",
+    "prepare": "npm run build",
+    "prepublishOnly": "npm test && npm run lint",
+    "preversion": "npm run lint",
+    "postversion": "git push && git push --tags",
+    "clean_all": "rimraf lib node_modules"
+  },
+  "keywords": [
+    "npm",
+    "package",
+    "template"
+  ],
+  "author": "ante kotarac",
+  "license": "MIT",
+  "dependencies": {
+    "@types/jwt-decode": "^2.2.0",
+    "@types/node": "^10.12.21",
+    "applicationinsights": "^1.4.0",
+    "guid-typescript": "^1.0.9",
+    "jwt-decode": "^2.1.0",
+    "request-promise": "^4.2.4"
+  },
+  "devDependencies": {
+    "@types/jest": "^24.0.18",
+    "backend-tslint-rules": "^1.12.1",
+    "jest": "~25.0.0",
+    "jest-junit": "8.0.0",
+    "jest-sonar-reporter": "^2.0.0",
+    "prettier": "^1.16.4",
+    "ts-jest": "^24.0.0",
+    "tslint": "^5.20.0",
+    "tslint-clean-code": "^0.2.10",
+    "tslint-config-prettier": "^1.18.0",
+    "tslint-consistent-codestyle": "^1.16.0",
+    "tslint-sonarts": "^1.9.0",
+    "typescript": "~3.6.4"
+  },
+  "jest": {
+    "transform": {
+      "^.+\\.(ts|tsx)$": "ts-jest"
+    },
+    "testMatch": [
+      "**/*.spec.ts"
+    ],
+    "moduleFileExtensions": [
+      "ts",
+      "js"
+    ],
+    "reporters": [
+      "default"
+    ],
+    "cache": false,
+    "silent": true,
+    "coverageReporters": [
+      "html",
+      "cobertura",
+      "lcov"
+    ],
+    "coverageDirectory": "./coverage/",
+    "collectCoverageFrom": [
+      "src/**/*.{ts,tsx}",
+      "!**/node_modules/**",
+      "!**/*.spec.ts"
+    ],
+    "coverageThreshold": {
+      "global": {
+        "branches": 0,
+        "functions": 0,
+        "lines": 0,
+        "statements": 0
+      }
+    },
+    "testURL": "http://localhost"
+  },
+  "jest-junit": {
+    "outputName": "test-report.xml"
+  }
+}

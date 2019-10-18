@@ -1,0 +1,9 @@
+node_modules/
+*.spec.*
+src/
+coverage/
+.vscode/
+.prettierrc
+test-report.xml                
+tsconfig.json                  
+tslint.json  
