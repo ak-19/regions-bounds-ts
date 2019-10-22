@@ -1518,12 +1518,12 @@ export const regionBoundMap = {
           },
           "Baki":{
              "name":"Baki",
-             "shortCode":"BAK",
+             "shortCode":"AZ-BAK",
              "bounds":"49.6538049,40.302583,50.0561143,50.0561143"
           },
           "Baku":{
              "name":"Baki",
-             "shortCode":"BAK",
+             "shortCode":"AZ-BAK",
              "bounds":"49.6538049,40.302583,50.0561143,40.486602"
           },
           "Babək":{
@@ -6659,72 +6659,72 @@ export const regionBoundMap = {
        "regions":{
           "Auvergne-Rhone-Alpes":{
              "name":"Auvergne-Rhone-Alpes",
-             "shortCode":"ARA",
+             "shortCode":"FR-ARA",
              "bounds":"2.062882,44.115493,7.1855661,7.1855661"
           },
           "Bourgogne-Franche-Comte":{
              "name":"Bourgogne-Franche-Comte",
-             "shortCode":"BFC",
+             "shortCode":"FR-BFC",
              "bounds":"2.8448908,46.15607,7.143381,7.143381"
           },
           "Bretagne":{
              "name":"Bretagne",
-             "shortCode":"BRE",
+             "shortCode":"FR-BRE",
              "bounds":"-5.141292099999999,47.27785290000001,-1.015621,-1.015621"
           },
           "Centre-Val de Loire":{
              "name":"Centre-Val de Loire",
-             "shortCode":"CVL",
+             "shortCode":"FR-CVL",
              "bounds":"0.0527369,46.3469059,3.1284099,3.1284099"
           },
           "Corse":{
              "name":"Corse",
-             "shortCode":"COR",
+             "shortCode":"FR-COR",
              "bounds":"8.534677,41.333543,9.560096,9.560096"
           },
           "Grand Est":{
              "name":"Grand Est",
-             "shortCode":"GES",
+             "shortCode":"FR-GES",
              "bounds":"3.3836479,47.4202619,8.2335491,8.2335491"
           },
           "Hauts-de-France":{
              "name":"Hauts-de-France",
-             "shortCode":"HDF",
+             "shortCode":"FR-HDF",
              "bounds":"1.555598,49.9690609,4.2316779,4.2316779"
           },
           "Ile-de-France":{
              "name":"Ile-de-France",
-             "shortCode":"IDF",
+             "shortCode":"FR-IDF",
              "bounds":"1.44617,48.1200811,3.5590069,3.5590069"
           },
           "Normandie":{
              "name":"Normandie",
-             "shortCode":"NOR",
+             "shortCode":"FR-NOR",
              "bounds":"-1.954995,48.1798839,1.8031111,1.8031111"
           },
           "Nouvelle-Aquitaine":{
              "name":"Nouvelle-Aquitaine",
-             "shortCode":"NAQ",
+             "shortCode":"FR-NAQ",
              "bounds":"-1.7923251,42.777531,2.6112931,2.6112931"
           },
           "Occitanie":{
              "name":"Occitanie",
-             "shortCode":"OCC",
+             "shortCode":"FR-OCC",
              "bounds":"-0.327159,42.333014,4.8455639,4.8455639"
           },
           "Pays de la Loire":{
              "name":"Pays de la Loire",
-             "shortCode":"PDL",
+             "shortCode":"FR-PDL",
              "bounds":"-2.559609,46.26653899999999,0.9166388999999999,0.9166388999999999"
           },
           "Provence-Alpes-Cote d'Azur":{
              "name":"Provence-Alpes-Cote d'Azur",
-             "shortCode":"PAC",
+             "shortCode":"FR-PAC",
              "bounds":"4.230207,42.98199810000001,7.718992999999998,7.718992999999998"
           },
           "Clipperton":{
              "name":"Clipperton",
-             "shortCode":"CP"
+             "shortCode":"FR-CP"
           },
           "Guadeloupe":{
              "name":"Guadeloupe",
@@ -6748,27 +6748,27 @@ export const regionBoundMap = {
           },
           "Novelle-Caledonie":{
              "name":"Novelle-Caledonie",
-             "shortCode":"NC",
+             "shortCode":"FR-NC",
              "bounds":"163.3557129,-23.2514406,168.3325194,168.3325194"
           },
           "Polynesie":{
              "name":"Polynesie",
-             "shortCode":"PF",
+             "shortCode":"FR-PF",
              "bounds":"136.9226075,-52.7224663,-124.5410156,-124.5410156"
           },
           "Saint-Pierre-et-Miquelon":{
              "name":"Saint-Pierre-et-Miquelon",
-             "shortCode":"PM",
+             "shortCode":"FR-PM",
              "bounds":"-56.5233,46.7003,-55.98249999999999,-55.98249999999999"
           },
           "Saint Barthelemy":{
              "name":"Saint Barthelemy",
-             "shortCode":"BL",
+             "shortCode":"FR-BL",
              "bounds":"-62.9559999,17.8663,-62.7869,-62.7869"
           },
           "Saint Martin":{
              "name":"Saint Martin",
-             "shortCode":"MF",
+             "shortCode":"FR-MF",
              "bounds":"-63.1535899,18.0050985,-63.01004179999999,-63.01004179999999"
           },
           "Reunion":{
@@ -6778,12 +6778,12 @@ export const regionBoundMap = {
           },
           "Terres Australes Francaises":{
              "name":"Terres Australes Francaises",
-             "shortCode":"TF",
+             "shortCode":"FR-TF",
              "bounds":"49.8519168,-50.0641918,70.6558228,70.6558228"
           },
           "Wallis-et-Futuna":{
              "name":"Wallis-et-Futuna",
-             "shortCode":"WF",
+             "shortCode":"FR-WF",
              "bounds":"-178.2284546,-14.4187203,-176.0971068,-176.0971068"
           },
           "Nord":{
@@ -9509,7 +9509,7 @@ export const regionBoundMap = {
           },
           "Kirkuk":{
              "name":"Kirkuk",
-             "shortCode":"KI",
+             "shortCode":"IQ-KI",
              "bounds":"44.28897860000001,35.3787634,44.4445038,44.4445038"
           },
           "Maysan":{
@@ -9712,7 +9712,7 @@ export const regionBoundMap = {
        "regions":{
           "Center District":{
              "name":"Center District",
-             "shortCode":"CD",
+             "shortCode":"IL-CD",
              "bounds":"34.2673871,29.481155,35.4549186,35.4549186"
           },
           "HaDarom":{
@@ -9753,100 +9753,100 @@ export const regionBoundMap = {
        "regions":{
           "Abruzzo":{
              "name":"Abruzzo",
-             "shortCode":"65",
+             "shortCode":"IT-65",
              "bounds":"13.0184861,41.6821056,14.7830124,14.7830124"
           },
           "Basilicata":{
              "name":"Basilicata",
-             "shortCode":"77",
+             "shortCode":"IT-77",
              "bounds":"15.3349867,39.8948019,16.8671721,16.8671721"
           },
           "Calabria":{
              "name":"Calabria",
-             "shortCode":"78",
+             "shortCode":"IT-78",
              "bounds":"15.6296871,37.9157558,17.2065266,17.2065266"
           },
           "Campania":{
              "name":"Campania",
-             "shortCode":"72",
+             "shortCode":"IT-72",
              "bounds":"15.0972331,40.6585178,15.1139755,15.1139755"
           },
           "Emilia-Romagna":{
              "name":"Emilia-Romagna",
-             "shortCode":"45",
+             "shortCode":"IT-45",
              "bounds":"9.197932999999999,43.7318908,12.7556401,12.7556401"
           },
           "Friuli-Venezia Giulia":{
              "name":"Friuli-Venezia Giulia",
-             "shortCode":"36",
+             "shortCode":"IT-36",
              "bounds":"12.3209406,45.5809283,13.9188525,13.9188525"
           },
           "Lazio":{
              "name":"Lazio",
-             "shortCode":"62",
+             "shortCode":"IT-62",
              "bounds":"11.4493842,40.7847377,14.0276424,14.0276424"
           },
           "Liguria":{
              "name":"Liguria",
-             "shortCode":"42",
+             "shortCode":"IT-42",
              "bounds":"7.4948099,43.7596721,10.0710317,10.0710317"
           },
           "Lombardia":{
              "name":"Lombardia",
-             "shortCode":"25",
+             "shortCode":"IT-25",
              "bounds":"8.4978605,44.6796491,11.4276993,11.4276993"
           },
           "Marche":{
              "name":"Marche",
-             "shortCode":"57"
+             "shortCode":"IT-57"
           },
           "Molise":{
              "name":"Molise",
-             "shortCode":"67",
+             "shortCode":"IT-67",
              "bounds":"13.941014,41.3639637,15.1615595,15.1615595"
           },
           "Piemonte":{
              "name":"Piemonte",
-             "shortCode":"21",
+             "shortCode":"IT-21",
              "bounds":"6.6266304,44.0600899,9.2142641,9.2142641"
           },
           "Puglia":{
              "name":"Puglia",
-             "shortCode":"75",
+             "shortCode":"IT-75",
              "bounds":"14.934095,39.7896411,18.5203835,18.5203835"
           },
           "Sardegna":{
              "name":"Sardegna",
-             "shortCode":"88",
+             "shortCode":"IT-88",
              "bounds":"8.1308048,38.86404900000001,9.827037599999999,9.827037599999999"
           },
           "Sicilia":{
              "name":"Sicilia",
-             "shortCode":"82",
+             "shortCode":"IT-82",
              "bounds":"11.9253334,35.4915492,15.6527947,15.6527947"
           },
           "Toscana":{
              "name":"Toscana",
-             "shortCode":"52"
+             "shortCode":"IT-52"
           },
           "Trentino-Alto Adige":{
              "name":"Trentino-Alto Adige",
-             "shortCode":"32",
+             "shortCode":"IT-32",
              "bounds":"10.3817891,45.6730636,12.4775863,12.4775863"
           },
           "Umbria":{
              "name":"Umbria",
-             "shortCode":"55",
+             "shortCode":"IT-55",
              "bounds":"11.8918927,42.3644512,13.2641691,13.2641691"
           },
           "Valle d'Aosta":{
              "name":"Valle d'Aosta",
-             "shortCode":"23",
+             "shortCode":"IT-23",
              "bounds":"6.8013502,45.4669449,7.9395262,7.9395262"
           },
           "Veneto":{
              "name":"Veneto",
-             "shortCode":"34",
+             "shortCode":"IT-34",
              "bounds":"10.6229634,44.791218,13.1009766,13.1009766"
           },
           "Aoste":{
@@ -10831,6 +10831,7 @@ export const regionBoundMap = {
           },
           "Bayqongyr":{
              "name":"Bayqongyr",
+             "shortCode":"KZ-00x",
              "bounds":"63.2785679,45.6036048,63.3368254,63.3368254"
           },
           "Mangghystau":{
@@ -10891,236 +10892,236 @@ export const regionBoundMap = {
        "regions":{
           "Baringo":{
              "name":"Baringo",
-             "shortCode":"01",
+             "shortCode":"KE-01",
              "bounds":"35.5234383,-0.2266233,36.4833613,36.4833613"
           },
           "Bomet":{
              "name":"Bomet",
-             "shortCode":"02",
+             "shortCode":"KE-02",
              "bounds":"35.0132461,-1.0377106,35.5880296,35.5880296"
           },
           "Bungoma":{
              "name":"Bungoma",
-             "shortCode":"03",
+             "shortCode":"KE-03",
              "bounds":"34.5354367,0.5419267999999999,34.5709705,34.5709705"
           },
           "Busia":{
              "name":"Busia",
-             "shortCode":"04",
+             "shortCode":"KE-04",
              "bounds":"34.0976143,0.4509494,34.1225065,34.1225065"
           },
           "Eleyo/Marakwet":{
              "name":"Eleyo/Marakwet",
-             "shortCode":"05",
+             "shortCode":"KE-05",
              "bounds":"35.1503603,0.1677846,35.7238536,35.7238536"
           },
           "Embu":{
              "name":"Embu",
-             "shortCode":"06",
+             "shortCode":"KE-06",
              "bounds":"37.4479854,-0.5556192,37.473522,37.473522"
           },
           "Garissa":{
              "name":"Garissa",
-             "shortCode":"07",
+             "shortCode":"KE-07",
              "bounds":"39.6322346,-0.4851093,39.6649362,39.6649362"
           },
           "Homa Bay":{
              "name":"Homa Bay",
-             "shortCode":"08",
+             "shortCode":"KE-08",
              "bounds":"34.4135141,-0.5711938,34.484024,34.484024"
           },
           "Isiolo":{
              "name":"Isiolo",
-             "shortCode":"09",
+             "shortCode":"KE-09",
              "bounds":"37.5574923,0.327142,37.6229993,37.6229993"
           },
           "Kajiado":{
              "name":"Kajiado",
-             "shortCode":"10",
+             "shortCode":"KE-10",
              "bounds":"35.9999911,-3.1849266,37.94655789999999,37.94655789999999"
           },
           "Kakamega":{
              "name":"Kakamega",
-             "shortCode":"11",
+             "shortCode":"KE-11",
              "bounds":"34.7211562,0.2609216,34.7710968,34.7710968"
           },
           "Kericho":{
              "name":"Kericho",
-             "shortCode":"12",
+             "shortCode":"KE-12",
              "bounds":"35.2614576,-0.3809138,35.3020764,35.3020764"
           },
           "Kiambu":{
              "name":"Kiambu",
-             "shortCode":"13",
+             "shortCode":"KE-13",
              "bounds":"36.4909628,-1.3146298,37.3619435,37.3619435"
           },
           "Kilifi":{
              "name":"Kilifi",
-             "shortCode":"14",
+             "shortCode":"KE-14",
              "bounds":"39.8335933,-3.6762641,39.9596785,39.9596785"
           },
           "Kirinyaga":{
              "name":"Kirinyaga",
-             "shortCode":"15",
+             "shortCode":"KE-15",
              "bounds":"37.1442261,-0.7879408,37.4973861,37.4973861"
           },
           "Kisii":{
              "name":"Kisii",
-             "shortCode":"16",
+             "shortCode":"KE-16",
              "bounds":"34.759592,-0.6977696999999999,34.7955037,34.7955037"
           },
           "Kisumu":{
              "name":"Kisumu",
-             "shortCode":"17",
+             "shortCode":"KE-17",
              "bounds":"34.5750903,-0.1874538,34.9012469,34.9012469"
           },
           "Kitui":{
              "name":"Kitui",
-             "shortCode":"18",
+             "shortCode":"KE-18",
              "bounds":"37.9733849,-1.3822437,38.0146485,38.0146485"
           },
           "Kwale":{
              "name":"Kwale",
-             "shortCode":"19",
+             "shortCode":"KE-19",
              "bounds":"38.4448385,-4.679764599999999,39.6437584,39.6437584"
           },
           "Laikipia":{
              "name":"Laikipia",
-             "shortCode":"20",
+             "shortCode":"KE-20",
              "bounds":"36.2348131,-0.2818939,37.3965435,37.3965435"
           },
           "Lamu":{
              "name":"Lamu",
-             "shortCode":"21",
+             "shortCode":"KE-21",
              "bounds":"40.8967566,-2.2801124,40.90520009999999,40.90520009999999"
           },
           "Machakos":{
              "name":"Machakos",
-             "shortCode":"22",
+             "shortCode":"KE-22",
              "bounds":"37.23290799999999,-1.5343834,37.2760105,37.2760105"
           },
           "Makueni":{
              "name":"Makueni",
-             "shortCode":"23",
+             "shortCode":"KE-23",
              "bounds":"37.1428494,-2.9948865,38.5002997,38.5002997"
           },
           "Mandera":{
              "name":"Mandera",
-             "shortCode":"24",
+             "shortCode":"KE-24",
              "bounds":"41.83373539999999,3.9167477,41.8756342,41.8756342"
           },
           "Marsabit":{
              "name":"Marsabit",
-             "shortCode":"25",
+             "shortCode":"KE-25",
              "bounds":"37.96360019999999,2.31967,38.0124377,38.0124377"
           },
           "Meru":{
              "name":"Meru",
-             "shortCode":"26"
+             "shortCode":"KE-26"
           },
           "Migori":{
              "name":"Migori",
-             "shortCode":"27",
+             "shortCode":"KE-27",
              "bounds":"33.9242971,-1.3877596,34.7287688,34.7287688"
           },
           "Mombasa":{
              "name":"Mombasa",
-             "shortCode":"28",
+             "shortCode":"KE-28",
              "bounds":"39.569149,-4.118713,39.76337729999999,39.76337729999999"
           },
           "Murang'a":{
              "name":"Murang'a",
-             "shortCode":"29",
+             "shortCode":"KE-29",
              "bounds":"36.7045365,-1.0959919,37.4204867,37.4204867"
           },
           "Nairobi City":{
              "name":"Nairobi City",
-             "shortCode":"30",
+             "shortCode":"KE-30",
              "bounds":"36.6454191,-1.4416739,37.0493746,37.0493746"
           },
           "Nakuru":{
              "name":"Nakuru",
-             "shortCode":"31",
+             "shortCode":"KE-31",
              "bounds":"35.9604836,-0.4233131,36.1972372,36.1972372"
           },
           "Nandi":{
              "name":"Nandi",
-             "shortCode":"32",
+             "shortCode":"KE-32",
              "bounds":"34.7395968,-0.1103779,35.4426233,35.4426233"
           },
           "Narok":{
              "name":"Narok",
-             "shortCode":"33",
+             "shortCode":"KE-33",
              "bounds":"35.8523369,-1.1023413,35.8903599,35.8903599"
           },
           "Nyamira":{
              "name":"Nyamira",
-             "shortCode":"34",
+             "shortCode":"KE-34",
              "bounds":"34.7895483,-0.8902728999999999,35.0920825,35.0920825"
           },
           "Nyandarua":{
              "name":"Nyandarua",
-             "shortCode":"35",
+             "shortCode":"KE-35",
              "bounds":"36.2014123,-0.9213762999999999,36.7357133,36.7357133"
           },
           "Nyeri":{
              "name":"Nyeri",
-             "shortCode":"36",
+             "shortCode":"KE-36",
              "bounds":"36.9038929,-0.4658602,37.0015096,37.0015096"
           },
           "Samburu":{
              "name":"Samburu",
-             "shortCode":"37",
+             "shortCode":"KE-37",
              "bounds":"36.2918384,0.564052,38.1021836,38.1021836"
           },
           "Siaya":{
              "name":"Siaya",
-             "shortCode":"38",
+             "shortCode":"KE-38",
              "bounds":"33.9482194,-0.4269062,34.5632897,34.5632897"
           },
           "Taita/Taveta":{
              "name":"Taita/Taveta",
-             "shortCode":"39",
+             "shortCode":"KE-39",
              "bounds":"37.5852871,-4.138981999999999,39.2204087,39.2204087"
           },
           "Tana River":{
              "name":"Tana River",
-             "shortCode":"40",
+             "shortCode":"KE-40",
              "bounds":"37.5534526,-2.5504154,40.5533995,40.5533995"
           },
           "Tharaka-Nithi":{
              "name":"Tharaka-Nithi",
-             "shortCode":"41",
+             "shortCode":"KE-41",
              "bounds":"37.30834189999999,-0.4543983,38.3108395,38.3108395"
           },
           "Trans Nzoia":{
              "name":"Trans Nzoia",
-             "shortCode":"42",
+             "shortCode":"KE-42",
              "bounds":"34.58519709999999,0.8066764,35.3629805,35.3629805"
           },
           "Turkana":{
              "name":"Turkana",
-             "shortCode":"43",
+             "shortCode":"KE-43",
              "bounds":"33.98522440000001,0.9189826999999999,36.7107527,36.7107527"
           },
           "Uasin Gishu":{
              "name":"Uasin Gishu",
-             "shortCode":"44",
+             "shortCode":"KE-44",
              "bounds":"34.8535899,0.0058951,35.5904553,35.5904553"
           },
           "Vihiga":{
              "name":"Vihiga",
-             "shortCode":"45",
+             "shortCode":"KE-45",
              "bounds":"34.5358405,-0.0392293,34.9269783,34.9269783"
           },
           "Wajir":{
              "name":"Wajir",
-             "shortCode":"46",
+             "shortCode":"KE-46",
              "bounds":"39.9466323,1.6683128,40.2061845,40.2061845"
           },
           "West Pokot":{
              "name":"West Pokot",
-             "shortCode":"47",
+             "shortCode":"KE-47",
              "bounds":"34.7856898,1.1189593,35.7911437,35.7911437"
           },
           "Rift Valley":{
@@ -11170,101 +11171,122 @@ export const regionBoundMap = {
        "countryShortCode":"KI",
        "regions":{
           "Abaiang":{
-             "name":"Abaiang"
+             "name":"Abaiang",
+             "shortCode":"KI-100"
           },
           "Abemama":{
              "name":"Abemama",
+             "shortCode":"KI-101",
              "bounds":"173.8004065,0.3047964,173.9447727,173.9447727"
           },
           "Aranuka":{
              "name":"Aranuka",
+             "shortCode":"KI-102",
              "bounds":"173.5368337,0.118103,173.6445539,173.6445539"
           },
           "Arorae":{
-             "name":"Arorae"
+             "name":"Arorae",
+             "shortCode":"KI-103"
           },
           "Butaritari":{
-             "name":"Butaritari"
+             "name":"Butaritari",
+             "shortCode":"KI-104"
           },
           "Central Gilberts":{
              "name":"Central Gilberts",
+             "shortCode":"KI-105",
              "bounds":"-88.3934951,42.0724101,-88.3493,-88.3493"
           },
           "Gilbert Islands":{
              "name":"Gilbert Islands",
-             "shortCode":"G",
+             "shortCode":"KI-106",
              "bounds":"172.6483442,-2.6943472,176.8621827,176.8621827"
           },
           "Kanton":{
              "name":"Kanton",
+             "shortCode":"KI-107",
              "bounds":"-171.725643,-2.8732125,-171.6129404,-171.6129404"
           },
           "Kiritimati":{
              "name":"Kiritimati",
+             "shortCode":"KI-108",
              "bounds":"-157.5670906,1.6883508,-157.16089,-157.16089"
           },
           "Kuria":{
              "name":"Kuria",
+             "shortCode":"KI-109",
              "bounds":"173.3794498,0.1945779,173.4528781,173.4528781"
           },
           "Line Islands":{
              "name":"Line Islands",
-             "shortCode":"L",
+             "shortCode":"KI-110",
              "bounds":"-160.426792,-11.4370379,-150.208359,-150.208359"
           },
           "Maiana":{
              "name":"Maiana",
+             "shortCode":"KI-111",
              "bounds":"172.9708099,0.8389382,173.0719613,173.0719613"
           },
           "Makin":{
              "name":"Makin",
+             "shortCode":"KI-112",
              "bounds":"172.9766792,3.3517368,173.009588,173.009588"
           },
           "Marakei":{
              "name":"Marakei",
+             "shortCode":"KI-113",
              "bounds":"173.2510901,1.9701984,173.3085108,173.3085108"
           },
           "Nikunau":{
              "name":"Nikunau",
+             "shortCode":"KI-114",
              "bounds":"176.4025141,-1.404929,176.4946961,176.4946961"
           },
           "Nonouti":{
              "name":"Nonouti",
+             "shortCode":"KI-115",
              "bounds":"174.2176724,-0.8146774,174.4764518,174.4764518"
           },
           "Onotoa":{
              "name":"Onotoa",
+             "shortCode":"KI-116",
              "bounds":"175.5177497,-1.9542473,175.6198548,175.6198548"
           },
           "Phoenix Islands":{
              "name":"Phoenix Islands",
-             "shortCode":"P"
+             "shortCode":"KI-117",
           },
           "Southern Gilberts":{
-             "name":"Southern Gilberts"
+             "name":"Southern Gilberts",
+             "shortCode":"KI-118"
           },
           "Tabiteuea":{
              "name":"Tabiteuea",
+             "shortCode":"KI-119",
              "bounds":"174.658327,-1.5404752,175.0790691,175.0790691"
           },
           "Tabuaeran":{
              "name":"Tabuaeran",
+             "shortCode":"KI-120",
              "bounds":"-159.3993018,3.8032195,-159.2389702,-159.2389702"
           },
           "Tamana":{
-             "name":"Tamana"
+             "name":"Tamana",
+             "shortCode":"KI-121"
           },
           "Tarawa":{
              "name":"Tarawa",
+             "shortCode":"KI-122",
              "bounds":"172.8951432,1.3230668,173.1674137,173.1674137"
           },
           "Teraina":{
              "name":"Teraina",
+             "shortCode":"KI-123",
              "bounds":"-160.4098321,4.6691626,-160.3497505,-160.3497505"
           },
           "Kiribati":{
              "name":"Kiribati",
-             "shortCode":"KI-X01~",
+             "shortCode":"KI-124",
              "bounds":"-172.229603645,-11.461114191,176.850922071,4.723089911"
           }
        }
@@ -11625,7 +11647,7 @@ export const regionBoundMap = {
           },
           "Alsunga":{
              "name":"Alsunga",
-             "shortCode":"06",
+             "shortCode":"LV-06",
              "bounds":"21.5491116,56.96892,21.5857241,21.5857241"
           },
           "Aluksne":{
@@ -12206,12 +12228,12 @@ export const regionBoundMap = {
        "regions":{
           "Aakkar":{
              "name":"Aakkar",
-             "shortCode":"AK",
+             "shortCode":"LB-AK",
              "bounds":"35.95482,34.4124928,36.4651242,36.4651242"
           },
           "Baalbelk-Hermel":{
              "name":"Baalbelk-Hermel",
-             "shortCode":"BH",
+             "shortCode":"LB-BH",
              "bounds":"35.8782156,33.813076,36.6230659,36.6230659"
           },
           "Beqaa":{
@@ -12246,7 +12268,7 @@ export const regionBoundMap = {
           },
           "Mount Lebanon Governorate":{
              "name":"Mount Lebanon Governorate",
-             "shortCode":"ML",
+             "shortCode":"LB-ML",
              "bounds":"35.385865,33.4916838,36.0150641,36.0150641"
           },
           "Nabatiye":{
@@ -12328,7 +12350,7 @@ export const regionBoundMap = {
           },
           "Gbarpolu":{
              "name":"Gbarpolu",
-             "shortCode":"GP",
+             "shortCode":"LR-GP",
              "bounds":"-10.9533111,6.829072,-9.636509,-9.636509"
           },
           "Grand Bassa":{
@@ -12414,7 +12436,7 @@ export const regionBoundMap = {
           },
           "Al Jabal al Gharbi":{
              "name":"Al Jabal al Gharbi",
-             "shortCode":"JG",
+             "shortCode":"LY-JG",
              "bounds":"11.544916,28.368999,14.812035,14.812035"
           },
           "Al Jafarah":{
@@ -12444,7 +12466,7 @@ export const regionBoundMap = {
           },
           "Al Wahat":{
              "name":"Al Wahat",
-             "shortCode":"WA",
+             "shortCode":"LY-WA",
              "bounds":"18.4729449,26.9363771,25,25"
           },
           "An Nuqat al Khams":{
@@ -12464,7 +12486,7 @@ export const regionBoundMap = {
           },
           "Darnah":{
              "name":"Darnah",
-             "shortCode":"DR",
+             "shortCode":"LY-DR",
              "bounds":"22.6118888,32.7425359,22.6741272,22.6741272"
           },
           "Ghat":{
@@ -12484,7 +12506,7 @@ export const regionBoundMap = {
           },
           "Nalut":{
              "name":"Nalut",
-             "shortCode":"NL",
+             "shortCode":"LY-NL",
              "bounds":"10.9610395,31.8367114,10.9945031,10.9945031"
           },
           "Sabha":{
@@ -12499,7 +12521,7 @@ export const regionBoundMap = {
           },
           "Tarabulus":{
              "name":"Tarabulus",
-             "shortCode":"TB",
+             "shortCode":"LY-TB",
              "bounds":"13.1531881,32.8639441,13.2234836,13.2234836"
           },
           "Yafran":{
@@ -12667,12 +12689,12 @@ export const regionBoundMap = {
        "regions":{
           "Capellen":{
              "name":"Capellen",
-             "shortCode":"CA",
+             "shortCode":"LU-CA",
              "bounds":"5.9720992,49.6371483,6.0202718,6.0202718"
           },
           "Clevaux":{
              "name":"Clevaux",
-             "shortCode":"CL",
+             "shortCode":"LU-CL",
              "bounds":"5.95683,49.99869,6.1378501,6.1378501"
           },
           "Diekirch":{
@@ -12682,12 +12704,12 @@ export const regionBoundMap = {
           },
           "Echternach":{
              "name":"Echternach",
-             "shortCode":"EC",
+             "shortCode":"LU-EC",
              "bounds":"6.36529,49.76788,6.4350799,6.4350799"
           },
           "Esch-sur-Alzette":{
              "name":"Esch-sur-Alzette",
-             "shortCode":"ES",
+             "shortCode":"LU-ES",
              "bounds":"5.9418906,49.4608871,6.0049601,6.0049601"
           },
           "Grevenmacher":{
@@ -12702,27 +12724,27 @@ export const regionBoundMap = {
           },
           "Mersch":{
              "name":"Mersch",
-             "shortCode":"ME",
+             "shortCode":"LU-ME",
              "bounds":"6.03743,49.69301,6.1590699,6.1590699"
           },
           "Redange":{
              "name":"Redange",
-             "shortCode":"RD",
+             "shortCode":"LU-RD",
              "bounds":"5.8271399,49.74223,5.93873,5.93873"
           },
           "Remich":{
              "name":"Remich",
-             "shortCode":"RM",
+             "shortCode":"LU-RM",
              "bounds":"6.3388401,49.5341599,6.38207,6.38207"
           },
           "Vianden":{
              "name":"Vianden",
-             "shortCode":"VD",
+             "shortCode":"LU-VD",
              "bounds":"6.087339999999999,49.87063,6.236090099999999,6.236090099999999"
           },
           "Wiltz":{
              "name":"Wiltz",
-             "shortCode":"WI",
+             "shortCode":"LU-WI",
              "bounds":"5.877949999999999,49.93436,5.9710801,5.9710801"
           }
        }
@@ -12733,6 +12755,7 @@ export const regionBoundMap = {
        "regions":{
           "Macao":{
              "name":"Macao",
+             "shortCode":"MO-01",
              "bounds":"113.5276053,22.1066001,113.6127001,113.6127001"
           },
           "Macau":{
@@ -12968,7 +12991,7 @@ export const regionBoundMap = {
           },
           "Petrovec":{
              "name":"Petrovec",
-             "shortCode":"59",
+             "shortCode":"MK-59",
              "bounds":"21.5950228,41.9278888,21.6286469,21.6286469"
           },
           "Plasnica":{
@@ -12988,7 +13011,7 @@ export const regionBoundMap = {
           },
           "Radovis":{
              "name":"Radovis",
-             "shortCode":"",
+             "shortCode":"MK-64",
              "bounds":"22.4439095,41.62242029999999,22.4798942,22.4798942"
           },
           "Rankovce":{
@@ -13340,7 +13363,7 @@ export const regionBoundMap = {
           },
           "Karonga":{
              "name":"Karonga",
-             "shortCode":"KR",
+             "shortCode":"MW-KR",
              "bounds":"33.8861703,-9.967624899999999,33.94612310000001,33.94612310000001"
           },
           "Kasungu":{
@@ -13440,7 +13463,7 @@ export const regionBoundMap = {
           },
           "Southern Region":{
              "name":"Southern Region",
-             "shortCode":"SR",
+             "shortCode":"MW-SR",
              "bounds":"34.2501869,-17.1249999,35.916821,35.916821"
           }
        }
@@ -13602,7 +13625,7 @@ export const regionBoundMap = {
           },
           "Male":{
              "name":"Male",
-             "shortCode":"MLE",
+             "shortCode":"MV-MLE",
              "bounds":"73.4822152,4.1691779,73.5467929,73.5467929"
           },
           "Meemu":{
@@ -14050,99 +14073,99 @@ export const regionBoundMap = {
        "regions":{
           "Ailinglaplap":{
              "name":"Ailinglaplap",
-             "shortCode":"ALL"
+             "shortCode":"MH-ALL"
           },
           "Ailuk":{
              "name":"Ailuk",
-             "shortCode":"ALK"
+             "shortCode":"MH-ALK"
           },
           "Arno":{
              "name":"Arno",
-             "shortCode":"ARN",
+             "shortCode":"MH-ARN",
              "bounds":"10.2600125,43.4753574,11.8891721,11.8891721"
           },
           "Aur":{
              "name":"Aur",
-             "shortCode":"AUR"
+             "shortCode":"MH-AUR"
           },
           "Bikini and Kili":{
              "name":"Bikini and Kili",
-             "shortCode":"KIL",
+             "shortCode":"MH-KIL",
              "bounds":"169.1113473,5.637340099999999,169.13229,169.13229"
           },
           "Ebon":{
              "name":"Ebon",
-             "shortCode":"EBO"
+             "shortCode":"MH-EBO"
           },
           "Jabat":{
              "name":"Jabat",
-             "shortCode":"JAB"
+             "shortCode":"MH-JAB"
           },
           "Jaluit":{
              "name":"Jaluit",
-             "shortCode":"JAL",
+             "shortCode":"MH-JAL",
              "bounds":"169.4039839,5.7844795,169.7295821,169.7295821"
           },
           "Kwajalein":{
              "name":"Kwajalein",
-             "shortCode":"KWA"
+             "shortCode":"MH-KWA"
           },
           "Lae":{
              "name":"Lae",
-             "shortCode":"LAE",
+             "shortCode":"MH-LAE",
              "bounds":"146.9532968,-6.7433728,147.0376683,147.0376683"
           },
           "Lib":{
              "name":"Lib",
-             "shortCode":"LIB"
+             "shortCode":"MH-LIB"
           },
           "Likiep":{
              "name":"Likiep",
-             "shortCode":"LIK"
+             "shortCode":"MH-LIK"
           },
           "Majuro":{
              "name":"Majuro",
-             "shortCode":"MAJ",
+             "shortCode":"MH-MAJ",
              "bounds":"171.2862071,7.0680425,171.3842732,171.3842732"
           },
           "Maloelap":{
              "name":"Maloelap",
-             "shortCode":"MAL"
+             "shortCode":"MH-MAL"
           },
           "Mejit":{
              "name":"Mejit",
-             "shortCode":"MEJ",
+             "shortCode":"MH-MEJ",
              "bounds":"170.8625946,10.2680885,170.8782416,170.8782416"
           },
           "Namdrik":{
              "name":"Namdrik",
-             "shortCode":"NMK",
+             "shortCode":"MH-NMK",
              "bounds":"168.0986375,5.5905358,168.1352903,168.1352903"
           },
           "Namu":{
              "name":"Namu",
-             "shortCode":"NMU"
+             "shortCode":"MH-NMU"
           },
           "Rongelap":{
              "name":"Rongelap",
-             "shortCode":"RON"
+             "shortCode":"MH-RON"
           },
           "Ujae":{
              "name":"Ujae",
-             "shortCode":"UJA"
+             "shortCode":"MH-UJA"
           },
           "Utrik":{
              "name":"Utrik",
-             "shortCode":"UTI",
+             "shortCode":"MH-UTI",
              "bounds":"169.8216873,11.2163273,169.8606061,169.8606061"
           },
           "Wotho":{
              "name":"Wotho",
-             "shortCode":"WTH"
+             "shortCode":"MH-WTH"
           },
           "Wotje":{
              "name":"Wotje",
-             "shortCode":"WTJ"
+             "shortCode":"MH-WTJ"
           },
           "Railik Chain":{
              "name":"Railik Chain",
@@ -14162,6 +14185,7 @@ export const regionBoundMap = {
        "regions":{
           "Martinique":{
              "name":"Martinique",
+             "shortCode":"MQ-1",
              "bounds":"-61.24191279999999,14.370834,-60.7856368,-60.7856368"
           }
        }
@@ -14217,7 +14241,7 @@ export const regionBoundMap = {
           },
           "Nouakchott Ouest":{
              "name":"Nouakchott Ouest",
-             "shortCode":"13"
+             "shortCode":"MR-13"
           },
           "Tagant":{
              "name":"Tagant",
@@ -14262,7 +14286,7 @@ export const regionBoundMap = {
           },
           "Cargados Carajos Shoals":{
              "name":"Cargados Carajos Shoals",
-             "shortCode":"CC"
+             "shortCode":"MU-CC"
           },
           "Curepipe":{
              "name":"Curepipe",
@@ -14296,7 +14320,7 @@ export const regionBoundMap = {
           },
           "Port Louis (City)":{
              "name":"Port Louis (City)",
-             "shortCode":"PU"
+             "shortCode":"MU-PU"
           },
           "Port Louis":{
              "name":"Port Louis",
@@ -14336,86 +14360,86 @@ export const regionBoundMap = {
        "regions":{
           "Dzaoudzi":{
              "name":"Dzaoudzi",
-             "shortCode":"01",
+             "shortCode":"YT-01",
              "bounds":"45.25287729999999,-12.7896013,45.2658924,45.2658924"
           },
           "Pamandzi":{
              "name":"Pamandzi",
-             "shortCode":"02",
+             "shortCode":"YT-02",
              "bounds":"45.27150810000001,-12.8177497,45.2968511,45.2968511"
           },
           "Mamoudzou":{
              "name":"Mamoudzou",
-             "shortCode":"03",
+             "shortCode":"YT-03",
              "bounds":"45.2192592,-12.7862765,45.23526680000001,45.23526680000001"
           },
           "Dembeni":{
              "name":"Dembeni",
-             "shortCode":"04",
+             "shortCode":"YT-04",
              "bounds":"45.1807923,-12.8483576,45.1887713,45.1887713"
           },
           "Bandrele":{
              "name":"Bandrele",
-             "shortCode":"05",
+             "shortCode":"YT-05",
              "bounds":"45.1885774,-12.9202257,45.2035812,45.2035812"
           },
           "Kani-Keli":{
              "name":"Kani-Keli",
-             "shortCode":"06",
+             "shortCode":"YT-06",
              "bounds":"45.0994408,-12.9627095,45.1129615,45.1129615"
           },
           "Boueni":{
              "name":"Boueni",
-             "shortCode":"07",
+             "shortCode":"YT-07",
              "bounds":"45.07617459999999,-12.9188516,45.084484,45.084484"
           },
           "Chirongui":{
              "name":"Chirongui",
-             "shortCode":"08",
+             "shortCode":"YT-08",
              "bounds":"45.144906,-12.9391985,45.1552725,45.1552725"
           },
           "Sada":{
              "name":"Sada",
-             "shortCode":"09"
+             "shortCode":"YT-09"
           },
           "Ouangani":{
              "name":"Ouangani",
-             "shortCode":"10",
+             "shortCode":"YT-10",
              "bounds":"45.1324577,-12.8546552,45.1444219,45.1444219"
           },
           "Chiconi":{
              "name":"Chiconi",
-             "shortCode":"11",
+             "shortCode":"YT-11",
              "bounds":"45.1006816,-12.8414773,45.1249422,45.1249422"
           },
           "Tsingoni":{
              "name":"Tsingoni",
-             "shortCode":"12",
+             "shortCode":"YT-12",
              "bounds":"45.0985998,-12.7928656,45.1170665,45.1170665"
           },
           "M'Tsangamouji":{
              "name":"M'Tsangamouji",
-             "shortCode":"13",
+             "shortCode":"YT-13",
              "bounds":"45.0802925,-12.7656351,45.0901155,45.0901155"
           },
           "Acoua":{
              "name":"Acoua",
-             "shortCode":"14",
+             "shortCode":"YT-14",
              "bounds":"45.0516657,-12.7288563,45.0636248,45.0636248"
           },
           "Mtsamboro":{
              "name":"Mtsamboro",
-             "shortCode":"15",
+             "shortCode":"YT-15",
              "bounds":"45.0611367,-12.705838,45.07417359999999,45.07417359999999"
           },
           "Bandraboua":{
              "name":"Bandraboua",
-             "shortCode":"16",
+             "shortCode":"YT-16",
              "bounds":"45.119706,-12.7123924,45.12620949999999,45.12620949999999"
           },
           "Koungou":{
              "name":"Koungou",
-             "shortCode":"17",
+             "shortCode":"YT-17",
              "bounds":"45.200233,-12.7426627,45.21444349999999,45.21444349999999"
           }
        }
@@ -14688,7 +14712,7 @@ export const regionBoundMap = {
           },
           "Dubasari":{
              "name":"Dubasari",
-             "shortCode":"DU",
+             "shortCode":"MD-DU",
              "bounds":"29.1179751,47.23612139999999,29.1917038,29.1917038"
           },
           "Edinet":{
@@ -14824,77 +14848,77 @@ export const regionBoundMap = {
        "regions":{
           "Colle":{
              "name":"Colle",
-             "shortCode":"CL"
+             "shortCode":"MC-CL"
           },
           "Condamine":{
              "name":"Condamine",
-             "shortCode":"CO",
+             "shortCode":"MC-CO",
              "bounds":"149.8866782,-27.1473632,150.2979833,150.2979833"
           },
           "Fontvieille":{
              "name":"Fontvieille",
-             "shortCode":"FO",
+             "shortCode":"MC-FO",
              "bounds":"4.651022999999999,43.694208,4.7744799,4.7744799"
           },
           "Gare":{
              "name":"Gare",
-             "shortCode":"GA"
+             "shortCode":"MC-GA"
           },
           "Jardin Exotique":{
              "name":"Jardin Exotique",
-             "shortCode":"JE",
+             "shortCode":"MC-JE",
              "bounds":"7.4090982,43.7281461,7.417485300000001,7.417485300000001"
           },
           "Larvotto":{
              "name":"Larvotto",
-             "shortCode":"LA",
+             "shortCode":"MC-LA",
              "bounds":"7.4295741,43.741215,7.4398179,7.4398179"
           },
           "Monaco-Ville":{
              "name":"Monaco-Ville",
-             "shortCode":"MO",
+             "shortCode":"MC-MO",
              "bounds":"7.417186,43.7294177,7.4283824,7.4283824"
           },
           "Moneghetti":{
              "name":"Moneghetti",
-             "shortCode":"MG",
+             "shortCode":"MC-MG",
              "bounds":"7.414492099999999,43.7342514,7.4205618,7.4205618"
           },
           "Monte-Carlo":{
              "name":"Monte-Carlo",
-             "shortCode":"MC",
+             "shortCode":"MC-MC",
              "bounds":"7.421125999999999,43.735744,7.430814900000001,7.430814900000001"
           },
           "Moulins":{
              "name":"Moulins",
-             "shortCode":"MU",
+             "shortCode":"MC-MU",
              "bounds":"3.3036169,46.53685189999999,3.347381,3.347381"
           },
           "Port-Hercule":{
              "name":"Port-Hercule",
-             "shortCode":"PH"
+             "shortCode":"MC-PH"
           },
           "Saint-Roman":{
              "name":"Saint-Roman",
-             "shortCode":"SR",
+             "shortCode":"MC-SR",
              "bounds":"5.275322999999999,45.084264,5.3602009,5.3602009"
           },
           "Sainte-Devote":{
              "name":"Sainte-Devote",
-             "shortCode":"SD"
+             "shortCode":"MC-SD"
           },
           "Source":{
              "name":"Source",
-             "shortCode":"SO"
+             "shortCode":"MC-SO"
           },
           "Spelugues":{
              "name":"Spelugues",
-             "shortCode":"SP",
+             "shortCode":"MC-SP",
              "bounds":"7.4250707,43.7374374,7.4307262,7.4307262"
           },
           "Vallon de la Rousse":{
              "name":"Vallon de la Rousse",
-             "shortCode":"VR",
+             "shortCode":"MC-VR",
              "bounds":"7.4314598,43.7468199,7.432896299999999,7.432896299999999"
           },
           "Monaco":{
@@ -15061,7 +15085,7 @@ export const regionBoundMap = {
           },
           "Gusinje":{
              "name":"Gusinje",
-             "shortCode":"22",
+             "shortCode":"ME-22",
              "bounds":"19.825945,42.5579169,19.8396348,19.8396348"
           },
           "Herceg Novi":{
@@ -15091,7 +15115,7 @@ export const regionBoundMap = {
           },
           "Petnica":{
              "name":"Petnica",
-             "shortCode":"23",
+             "shortCode":"ME-23",
              "bounds":"19.9158096,44.2305854,19.9419433,19.9419433"
           },
           "Plav":{
@@ -15156,7 +15180,8 @@ export const regionBoundMap = {
              "shortCode":"MS-G"
           },
           "Saint Peter's":{
-             "name":"Saint Peter's"
+             "name":"Saint Peter's",
+             "shortCode":"MS-111"
           },
           "Saint Peter":{
              "name":"Saint Peter",
@@ -15282,7 +15307,7 @@ export const regionBoundMap = {
           },
           "Maputo (City)":{
              "name":"Maputo (City)",
-             "shortCode":"MPM",
+             "shortCode":"MZ-MPM",
              "bounds":"32.5233079,-25.9839715,32.6980592,32.6980592"
           },
           "Nampula":{
@@ -15363,7 +15388,7 @@ export const regionBoundMap = {
           },
           "Nay Pyi Taw":{
              "name":"Nay Pyi Taw",
-             "shortCode":"18",
+             "shortCode":"MM-18",
              "bounds":"96.0464107,19.7107351,96.13040760000001,96.13040760000001"
           },
           "Rakhine":{
@@ -15409,7 +15434,7 @@ export const regionBoundMap = {
           },
           "Kavango East":{
              "name":"Kavango East",
-             "shortCode":"KE",
+             "shortCode":"NA-KE",
              "bounds":"17.995449,-19.1762981,22.522122,22.522122"
           },
           "Karas":{
@@ -15551,7 +15576,7 @@ export const regionBoundMap = {
        "regions":{
           "Central Development Region":{
              "name":"Central Development Region",
-             "shortCode":"CD",
+             "shortCode":"NP-CD",
              "bounds":"84.62609499999999,27.3182049,86.06501,86.06501"
           },
           "Bagmati":{
@@ -15713,6 +15738,7 @@ export const regionBoundMap = {
        "regions":{
           "Iles Loyaute":{
              "name":"Iles Loyaute",
+             "shortCode":"NC-111",
              "bounds":"166.1343991,-21.662435,168.1332071,168.1332071"
           },
           "Nord":{
@@ -16330,7 +16356,7 @@ export const regionBoundMap = {
           },
           "Jan Mayen":{
              "name":"Jan Mayen",
-             "shortCode":"22",
+             "shortCode":"NO-22",
              "bounds":"-9.077435999999999,70.8262379,-7.929598200000001,-7.929598200000001"
           },
           "Svalbard":{
@@ -16396,7 +16422,7 @@ export const regionBoundMap = {
           },
           "Shamal ash Sharqiyah":{
              "name":"Shamal ash Sharqiyah",
-             "shortCode":"SJ",
+             "shortCode":"OM-SJ",
              "bounds":"57.90900800000001,20.7500535,59.4309743,59.4309743"
           },
           "Al Batnah North":{
@@ -16559,52 +16585,52 @@ export const regionBoundMap = {
        "regions":{
           "Al Quds":{
              "name":"Al Quds",
-             "shortCode":"JEM",
+             "shortCode":"PS-JEM",
              "bounds":"35.0854311,31.7096771,35.2652869,35.2652869"
           },
           "Ariha wal Aghwar":{
              "name":"Ariha wal Aghwar",
-             "shortCode":"JRH",
+             "shortCode":"PS-JRH",
              "bounds":"36.5923471,35.8017891,36.6287569,36.6287569"
           },
           "Dayr al Balah":{
              "name":"Dayr al Balah",
-             "shortCode":"DEB"
+             "shortCode":"PS-DEB"
           },
           "Janin":{
              "name":"Janin",
-             "shortCode":"JEN",
+             "shortCode":"PS-JEN",
              "bounds":"35.2748117,32.4390882,35.3296164,35.3296164"
           },
           "Khan Yunis":{
              "name":"Khan Yunis",
-             "shortCode":"KYS"
+             "shortCode":"PS-KYS"
           },
           "Nablus":{
              "name":"Nablus",
-             "shortCode":"NBS",
+             "shortCode":"PS-NBS",
              "bounds":"35.2151187,32.2048751,35.2802399,35.2802399"
           },
           "Rafah":{
              "name":"Rafah",
-             "shortCode":"RFH"
+             "shortCode":"PS-RFH"
           },
           "Ram Allah wal Birah":{
              "name":"Ram Allah wal Birah",
-             "shortCode":"RBH",
+             "shortCode":"PS-RBH",
              "bounds":"35.1843588,31.8826614,35.2274053,35.2274053"
           },
           "Salfit":{
              "name":"Salfit",
-             "shortCode":"SLT"
+             "shortCode":"PS-SLT"
           },
           "Tubas":{
              "name":"Tubas",
-             "shortCode":"TBS"
+             "shortCode":"PS-TBS"
           },
           "Tulkarm":{
              "name":"Tulkarm",
-             "shortCode":"TKM",
+             "shortCode":"PS-TKM",
              "bounds":"35.0126184,32.2944761,35.0446387,35.0446387"
           },
           "Gaza Strip":{
@@ -16680,7 +16706,7 @@ export const regionBoundMap = {
           },
           "Panama Oeste":{
              "name":"Panama Oeste",
-             "shortCode":"10",
+             "shortCode":"PA-10",
              "bounds":"-83.05224109999999,7.0409,-77.1584879,-77.1584879"
           },
           "Veraguas":{
@@ -16736,11 +16762,11 @@ export const regionBoundMap = {
           },
           "Hela":{
              "name":"Hela",
-             "shortCode":"HLA"
+             "shortCode":"PG-HLA"
           },
           "Jiwaka":{
              "name":"Jiwaka",
-             "shortCode":"JWK",
+             "shortCode":"PG-JWK",
              "bounds":"144.4509887,-6.388355,145.027201,145.027201"
           },
           "Madang":{
@@ -17002,7 +17028,7 @@ export const regionBoundMap = {
           },
           "Municipalidad Metropolitana de Lima":{
              "name":"Municipalidad Metropolitana de Lima",
-             "shortCode":"LMA",
+             "shortCode":"PE-LMA",
              "bounds":"-77.200966,-12.526549,-76.6205821,-76.6205821"
           },
           "Pasco":{
@@ -17198,7 +17224,7 @@ export const regionBoundMap = {
           },
           "Davao Occidental":{
              "name":"Davao Occidental",
-             "shortCode":"DVO",
+             "shortCode":"PH-DVO",
              "bounds":"125.307696,5.3651269,125.7154301,125.7154301"
           },
           "Davao Oriental":{
@@ -17208,7 +17234,7 @@ export const regionBoundMap = {
           },
           "Dinagat Islands":{
              "name":"Dinagat Islands",
-             "shortCode":"DIN",
+             "shortCode":"PH-DIN",
              "bounds":"125.4602489,9.8517189,125.7069389,125.7069389"
           },
           "Eastern Samar":{
@@ -17288,7 +17314,7 @@ export const regionBoundMap = {
           },
           "Metro Manila":{
              "name":"Metro Manila",
-             "shortCode":"00",
+             "shortCode":"PH-00",
              "bounds":"120.9062111,14.3480961,121.1350759,121.1350759"
           },
           "Mindoro Occidental":{
@@ -17842,282 +17868,353 @@ export const regionBoundMap = {
        "regions":{
           "Adjuntas":{
              "name":"Adjuntas",
+             "shortCode":"PR-111",
              "bounds":"-66.83723479999999,18.111929,-66.66469700000002,-66.66469700000002"
           },
           "Aguada":{
              "name":"Aguada",
+             "shortCode":"PR-112",
              "bounds":"-67.1924559,18.3779699,-67.183674,-67.183674"
           },
           "Aguadilla":{
              "name":"Aguadilla",
+             "shortCode":"PR-113",
              "bounds":"-67.162263,18.393487,-67.1449449,-67.1449449"
           },
           "Aguas Buenas":{
              "name":"Aguas Buenas",
+             "shortCode":"PR-114",
              "bounds":"-66.11636,18.2472089,-66.09510709999999,-66.09510709999999"
           },
           "Aibonito":{
              "name":"Aibonito",
+             "shortCode":"PR-115",             
              "bounds":"-66.32091299999999,18.0758839,-66.216397,-66.216397"
           },
           "Anasco":{
              "name":"Anasco",
+             "shortCode":"PR-116",
              "bounds":"-67.15075879999999,18.274393,-67.132341,-67.132341"
           },
           "Arecibo":{
-             "name":"Arecibo"
+             "name":"Arecibo",
+             "shortCode":"PR-117"
           },
           "Arroyo":{
-             "name":"Arroyo"
+             "name":"Arroyo",
+             "shortCode":"PR-118"
           },
           "Barceloneta":{
              "name":"Barceloneta",
+             "shortCode":"PR-119",
              "bounds":"2.1828229,41.3615109,2.1980582,2.1980582"
           },
           "Barranquitas":{
              "name":"Barranquitas",
+             "shortCode":"PR-120",
              "bounds":"-66.32226500000002,18.1781331,-66.29669,-66.29669"
           },
           "Bayamon":{
              "name":"Bayamon",
+             "shortCode":"PR-121",
              "bounds":"-66.2135371,18.2587968,-66.1183599,-66.1183599"
           },
           "Cabo Rojo":{
              "name":"Cabo Rojo",
+             "shortCode":"PR-122",
              "bounds":"-67.1507879,18.084129,-67.1440509,-67.1440509"
           },
           "Caguas":{
              "name":"Caguas",
+             "shortCode":"PR-123",
              "bounds":"-66.084666,18.2004211,-65.99941799999999,-65.99941799999999"
           },
           "Camuy":{
              "name":"Camuy",
+             "shortCode":"PR-124",
              "bounds":"-66.901388,18.3429979,-66.810598,-66.810598"
           },
           "Canovanas":{
              "name":"Canovanas",
+             "shortCode":"PR-125",
              "bounds":"-65.919313,18.3612289,-65.8915319,-65.8915319"
           },
           "Carolina":{
              "name":"Carolina",
+             "shortCode":"PR-126",
              "bounds":"-84.32186899999999,33.7528778,-75.400119,-75.400119"
           },
           "Cat":{
-             "name":"Cat"
+             "name":"Cat",
+             "shortCode":"PR-127"
           },
           "Ceiba":{
-             "name":"Ceiba"
+             "name":"Ceiba",
+             "shortCode":"PR-127"
           },
           "Ciales":{
              "name":"Ciales",
+             "shortCode":"PR-128",
              "bounds":"-66.4740729,18.3315959,-66.46406,-66.46406"
           },
           "Cidra":{
              "name":"Cidra",
+             "shortCode":"PR-128",
              "bounds":"-66.1688929,18.168885,-66.150375,-66.150375"
           },
           "Coamo":{
              "name":"Coamo",
+             "shortCode":"PR-129",
              "bounds":"-66.3790558,18.0628258,-66.3412051,-66.3412051"
           },
           "Comerio":{
-             "name":"Comerio"
+             "name":"Comerio",
+             "shortCode":"PR-130"
           },
           "Corozal":{
              "name":"Corozal",
+             "shortCode":"PR-131",
              "bounds":"-88.4089564,18.3841228,-88.374825,-88.374825"
           },
           "Culebra":{
              "name":"Culebra",
+             "shortCode":"PR-132",
              "bounds":"-65.3931714,18.2767898,-65.2210266,-65.2210266"
           },
           "Dorado":{
              "name":"Dorado",
+             "shortCode":"PR-133",
              "bounds":"-66.317421,18.4251849,-66.2543799,-66.2543799"
           },
           "Fajardo":{
              "name":"Fajardo",
+             "shortCode":"PR-134",
              "bounds":"-65.68592009999999,18.306196,-65.6268199,-65.6268199"
           },
           "Florida":{
              "name":"Florida",
+             "shortCode":"PR-135",
              "bounds":"-87.634896,24.396308,-79.974306,-79.974306"
           },
           "Guanica":{
              "name":"Guanica",
+             "shortCode":"PR-136",
              "bounds":"-66.9594359,17.959294,-66.901292,-66.901292"
           },
           "Guayama":{
              "name":"Guayama",
+             "shortCode":"PR-137",
              "bounds":"-66.2230199,17.92066,-66.053146,-66.053146"
           },
           "Guayanilla":{
              "name":"Guayanilla",
+             "shortCode":"PR-138",
              "bounds":"-66.8525081,17.9497954,-66.732974,-66.732974"
           },
           "Guaynabo":{
              "name":"Guaynabo",
+             "shortCode":"PR-139",
              "bounds":"-66.1441191,18.2776999,-66.08047479999999,-66.08047479999999"
           },
           "Gurabo":{
              "name":"Gurabo",
+             "shortCode":"PR-140",
              "bounds":"-66.0103685,18.241174,-65.96338,-65.96338"
           },
           "Hatillo":{
              "name":"Hatillo",
+             "shortCode":"PR-141",
              "bounds":"-66.838706,18.320614,-66.7650955,-66.7650955"
           },
           "Hormigueros":{
              "name":"Hormigueros",
+             "shortCode":"PR-142",
              "bounds":"-67.159733,18.1049541,-67.0774698,-67.0774698"
           },
           "Humacao":{
              "name":"Humacao",
+             "shortCode":"PR-143", 
              "bounds":"-65.8776149,18.0693059,-65.7298717,-65.7298717"
           },
           "Juana Diaz":{
              "name":"Juana Diaz",
+             "shortCode":"PR-144",
              "bounds":"-66.518373,18.0430019,-66.4915719,-66.4915719"
           },
           "Juncos":{
              "name":"Juncos",
+             "shortCode":"PR-145",
              "bounds":"-65.9332819,18.2131829,-65.9027609,-65.9027609"
           },
           "Lajas":{
              "name":"Lajas",
+             "shortCode":"PR-146",
              "bounds":"-67.07168,18.0352469,-67.0445689,-67.0445689"
           },
           "Lares":{
-             "name":"Lares"
+             "name":"Lares",
+             "shortCode":"PR-147"
           },
           "Las Marias":{
-             "name":"Las Marias"
+             "name":"Las Marias",
+             "shortCode":"PR-148"
           },
           "Las oiza":{
-             "name":"Las oiza"
+             "name":"Las oiza",
+             "shortCode":"PR-149"
           },
           "Luquillo":{
              "name":"Luquillo",
+             "shortCode":"PR-150",
              "bounds":"-65.77055589999999,18.288031,-65.6696906,-65.6696906"
           },
           "Manati":{
              "name":"Manati",
+             "shortCode":"PR-151",
              "bounds":"-66.543785,18.350255,-66.438733,-66.438733"
           },
           "Maricao":{
              "name":"Maricao",
+             "shortCode":"PR-152",
              "bounds":"-66.98522609999999,18.1788679,-66.974684,-66.974684"
           },
           "Maunabo":{
              "name":"Maunabo",
+             "shortCode":"PR-153",
              "bounds":"-65.91038809999999,17.997062,-65.893046,-65.893046"
           },
           "Mayaguez":{
              "name":"Mayaguez",
+             "shortCode":"PR-154",
              "bounds":"-67.998751,17.999432,-67.017388,-67.017388"
           },
           "Moca":{
-             "name":"Moca"
+             "name":"Moca",
+             "shortCode":"PR-155"
           },
           "Morovis":{
              "name":"Morovis",
+             "shortCode":"PR-156",
              "bounds":"-66.41615209999999,18.319847,-66.3947039,-66.3947039"
           },
           "Naguabo":{
              "name":"Naguabo",
+             "shortCode":"PR-157",
              "bounds":"-65.7464058,18.20272,-65.7290589,-65.7290589"
           },
           "Naranjito":{
              "name":"Naranjito",
+             "shortCode":"PR-158",
              "bounds":"-66.257099,18.298824,-66.23605309999999,-66.23605309999999"
           },
           "Orocovis":{
              "name":"Orocovis",
+             "shortCode":"PR-159",
              "bounds":"-66.3955399,18.219343,-66.38826089999999,-66.38826089999999"
           },
           "Patillas":{
              "name":"Patillas",
+             "shortCode":"PR-160",
              "bounds":"-66.08939889999999,17.9675384,-65.9092721,-65.9092721"
           },
           "Penuelas":{
              "name":"Penuelas",
+             "shortCode":"PR-161",
              "bounds":"-66.7697538,17.964889,-66.67682599999999,-66.67682599999999"
           },
           "Ponce":{
              "name":"Ponce",
+             "shortCode":"PR-162",
              "bounds":"-66.678494,17.88124,-66.5094101,-66.5094101"
           },
           "Quebradillas":{
              "name":"Quebradillas",
+             "shortCode":"PR-163",
              "bounds":"-66.968564,18.3656101,-66.89890009999999,-66.89890009999999"
           },
           "Rincon":{
              "name":"Rincon",
+             "shortCode":"PR-164",
              "bounds":"-67.25805869999999,18.3227658,-67.23130979999999,-67.23130979999999"
           },
           "Rio Grande":{
              "name":"Rio Grande",
+             "shortCode":"PR-165",
              "bounds":"-106.5348379,25.80386,-97.1359377,-97.1359377"
           },
           "San German":{
              "name":"San German",
+             "shortCode":"PR-166",
              "bounds":"-67.0655259,18.0697811,-67.0209478,-67.0209478"
           },
           "San Juan":{
              "name":"San Juan",
+             "shortCode":"PR-167",
              "bounds":"-66.1294029,18.297648,-65.991542,-65.991542"
           },
           "San Lorenzo":{
              "name":"San Lorenzo",
+             "shortCode":"PR-168",
              "bounds":"-122.1638418,37.6612745,-122.1073518,-122.1073518"
           },
           "San Sebastian":{
              "name":"San Sebastian",
+             "shortCode":"PR-169",
              "bounds":"-2.0235544,43.285871,-1.9242115,-1.9242115"
           },
           "Santa Isabel":{
              "name":"Santa Isabel",
+             "shortCode":"PR-170",
              "bounds":"-66.4526779,17.9193038,-66.331244,-66.331244"
           },
           "Toa Alta":{
              "name":"Toa Alta",
+             "shortCode":"PR-171",
              "bounds":"-66.25810899999999,18.378001,-66.2432631,-66.2432631"
           },
           "Toa Baja":{
              "name":"Toa Baja",
+             "shortCode":"PR-172",
              "bounds":"-66.259176,18.433039,-66.2508599,-66.2508599"
           },
           "Trujillo Alto":{
              "name":"Trujillo Alto",
+             "shortCode":"PR-173",
              "bounds":"-66.041535,18.293326,-65.9388609,-65.9388609"
           },
           "Utuado":{
              "name":"Utuado",
+             "shortCode":"PR-174",
              "bounds":"-66.721745,18.2582619,-66.6856229,-66.6856229"
           },
           "Vega Alta":{
              "name":"Vega Alta",
+             "shortCode":"PR-175",
              "bounds":"-66.37768000000001,18.3306218,-66.2995969,-66.2995969"
           },
           "Vega ues":{
              "name":"Vega ues",
+             "shortCode":"PR-176",
              "bounds":"-73.9732511,40.7583091,-73.94221689999999,-73.94221689999999"
           },
           "Villalba":{
              "name":"Villalba",
+             "shortCode":"PR-177",
              "bounds":"-66.5300429,18.0809149,-66.4187161,-66.4187161"
           },
           "Yabucoa":{
              "name":"Yabucoa",
+             "shortCode":"PR-178",
              "bounds":"-65.89134,18.038145,-65.868241,-65.868241"
           },
           "Yauco":{
              "name":"Yauco",
+             "shortCode":"PR-179",
              "bounds":"-66.8871569,18.007103,-66.8405199,-66.8405199"
           },
           "Puerto Rico":{
              "name":"Puerto Rico",
-             "shortCode":"US-PR",
+             "shortCode":"PR-PR",
              "bounds":"-67.937814908,17.922919012,-65.244618293,18.522772528"
           }
        }
@@ -18169,6 +18266,7 @@ export const regionBoundMap = {
        "regions":{
           "Reunion":{
              "name":"Reunion",
+             "shortCode":"RE-01",
              "bounds":"55.209732,-21.4035321,55.84487919999999,55.84487919999999"
           }
        }
@@ -18490,7 +18588,7 @@ export const regionBoundMap = {
           },
           "Jewish Autonomous Oblast":{
              "name":"Jewish Autonomous Oblast",
-             "shortCode":"JEW",
+             "shortCode":"RU-JEW",
              "bounds":"130.5212439,47.65943799999999,134.9953569,134.9953569"
           },
           "Kabardino-Balkar Republic":{
@@ -18500,7 +18598,7 @@ export const regionBoundMap = {
           },
           "Kaliningrad Oblast":{
              "name":"Kaliningrad Oblast",
-             "shortCode":"KLN",
+             "shortCode":"RU-KLN",
              "bounds":"19.6387429,54.318845,22.8868881,22.8868881"
           },
           "Republic of Kalmykia":{
@@ -18625,7 +18723,7 @@ export const regionBoundMap = {
           },
           "Murmansk Oblast":{
              "name":"Murmansk Oblast",
-             "shortCode":"MU",
+             "shortCode":"RU-MU",
              "bounds":"28.4163851,66.044111,41.4017088,41.4017088"
           },
           "Nenets Autonomous Okrug":{
@@ -18720,7 +18818,7 @@ export const regionBoundMap = {
           },
           "Republic of North Ossetia-Alania":{
              "name":"Republic of North Ossetia-Alania",
-             "shortCode":"NOA",
+             "shortCode":"RU-NOA",
              "bounds":"43.4103983,42.5470799,44.956779,44.956779"
           },
           "Smolensk Oblast":{
@@ -18755,7 +18853,7 @@ export const regionBoundMap = {
           },
           "Tuva Republic":{
              "name":"Tuva Republic",
-             "shortCode":"TU",
+             "shortCode":"RU-TU",
              "bounds":"88.7985341,49.7417159,99.269666,99.269666"
           },
           "Tula Oblast":{
@@ -18892,11 +18990,11 @@ export const regionBoundMap = {
        "regions":{
           "Au Vent":{
              "name":"Au Vent",
-             "shortCode":"02"
+             "shortCode":"BL-02"
           },
           "Sous le Vent":{
              "name":"Sous le Vent",
-             "shortCode":"01",
+             "shortCode":"BL-01",
              "bounds":"-71.7972036,48.12402489999999,-71.7932716,-71.7932716"
           },
           "Saint Barthélemy":{
@@ -18933,12 +19031,12 @@ export const regionBoundMap = {
        "regions":{
           "Saint Kitts":{
              "name":"Saint Kitts",
-             "shortCode":"K",
+             "shortCode":"KN-K",
              "bounds":"-62.8642645,17.2127719,-62.62132570000001,-62.62132570000001"
           },
           "Nevis":{
              "name":"Nevis",
-             "shortCode":"N",
+             "shortCode":"KN-N",
              "bounds":"-62.6335216,17.0941117,-62.5396309,-62.5396309"
           },
           "Saint Paul Charlestown":{
@@ -19024,7 +19122,7 @@ export const regionBoundMap = {
           },
           "Canaries":{
              "name":"Canaries",
-             "shortCode":"12"
+             "shortCode":"LC-12"
           },
           "Castries":{
              "name":"Castries",
@@ -19084,6 +19182,7 @@ export const regionBoundMap = {
        "regions":{
           "Saint Martin":{
              "name":"Saint Martin",
+             "shortCode":"MF-111",         
              "bounds":"-63.1535899,18.0050985,-63.01004179999999,-63.01004179999999"
           },
           "St. Martin":{
@@ -19099,10 +19198,12 @@ export const regionBoundMap = {
        "regions":{
           "Miquelon":{
              "name":"Miquelon",
+             "shortCode":"PM-111",
              "bounds":"-56.5233,46.7003,-55.98249999999999,-55.98249999999999"
           },
           "Saint Pierre":{
              "name":"Saint Pierre",
+             "shortCode":"PM-112",
              "bounds":"-56.19970319999999,46.7552724,-56.1581612,-56.1581612"
           },
           "Saint-Pierre":{
@@ -19469,7 +19570,7 @@ export const regionBoundMap = {
           },
           "Kosovski":{
              "name":"Kosovski",
-             "shortCode":"25",
+             "shortCode":"RS-25",
              "bounds":"20.014284,41.8576408,21.7898669,21.7898669"
           },
           "Macvanski":{
@@ -19494,7 +19595,7 @@ export const regionBoundMap = {
           },
           "Pecki":{
              "name":"Pecki",
-             "shortCode":"26",
+             "shortCode":"RS-26",
              "bounds":"20.008594,42.511427,20.7645036,20.7645036"
           },
           "Pirotski":{
@@ -19514,7 +19615,7 @@ export const regionBoundMap = {
           },
           "Prizrenski":{
              "name":"Prizrenski",
-             "shortCode":"27",
+             "shortCode":"RS-27",
              "bounds":"20.6879961,42.1911995,20.7811993,20.7811993"
           },
           "Raski":{
@@ -19925,7 +20026,7 @@ export const regionBoundMap = {
           },
           "Cirkulane":{
              "name":"Cirkulane",
-             "shortCode":"196",
+             "shortCode":"SI-196",
              "bounds":"15.9517692,46.3072033,16.0350987,16.0350987"
           },
           "Crensovci":{
@@ -20020,7 +20121,7 @@ export const regionBoundMap = {
           },
           "Gorje":{
              "name":"Gorje",
-             "shortCode":"207",
+             "shortCode":"SI-207",
              "bounds":"13.843129,46.3470629,14.0957186,14.0957186"
           },
           "Gornja Radgona":{
@@ -20160,7 +20261,7 @@ export const regionBoundMap = {
           },
           "Kodanjevica na Krki":{
              "name":"Kodanjevica na Krki",
-             "shortCode":"197",
+             "shortCode":"SI-197",
              "bounds":"15.4099095,45.8331778,15.4308416,15.4308416"
           },
           "Kostel":{
@@ -20240,7 +20341,7 @@ export const regionBoundMap = {
           },
           "Log-Dragomer":{
              "name":"Log-Dragomer",
-             "shortCode":"208",
+             "shortCode":"SI-208",
              "bounds":"14.3368891,45.9955229,14.4083155,14.4083155"
           },
           "Logatec":{
@@ -20280,7 +20381,7 @@ export const regionBoundMap = {
           },
           "Makole":{
              "name":"Makole",
-             "shortCode":"198",
+             "shortCode":"SI-198",
              "bounds":"15.634324,46.273812,15.7164502,15.7164502"
           },
           "Maribor":{
@@ -20325,7 +20426,7 @@ export const regionBoundMap = {
           },
           "Mirna":{
              "name":"Mirna",
-             "shortCode":"212"
+             "shortCode":"SI-212"
           },
           "Mirna Pec":{
              "name":"Mirna Pec",
@@ -20339,7 +20440,7 @@ export const regionBoundMap = {
           },
           "Mokronog-Trebelno":{
              "name":"Mokronog-Trebelno",
-             "shortCode":"199",
+             "shortCode":"SI-199",
              "bounds":"15.0954116,45.8672051,15.229623,15.229623"
           },
           "Moravce":{
@@ -20394,7 +20495,7 @@ export const regionBoundMap = {
           },
           "Osilnica":{
              "name":"Osilnica",
-             "shortCode":"088",
+             "shortCode":"SI-088",
              "bounds":"14.6851902,45.5008627,14.7954779,14.7954779"
           },
           "Pesnica":{
@@ -20429,7 +20530,7 @@ export const regionBoundMap = {
           },
           "Poljcane":{
              "name":"Poljcane",
-             "shortCode":"200",
+             "shortCode":"SI-200",
              "bounds":"15.5635422,46.3063551,15.5892471,15.5892471"
           },
           "Postojna":{
@@ -20494,12 +20595,12 @@ export const regionBoundMap = {
           },
           "Recica ob Savinji":{
              "name":"Recica ob Savinji",
-             "shortCode":"209",
+             "shortCode":"SI-209",
              "bounds":"14.9115531,46.3174304,14.9392996,14.9392996"
           },
           "Rence-Vogrsko":{
              "name":"Rence-Vogrsko",
-             "shortCode":"201",
+             "shortCode":"SI-201",
              "bounds":"13.6221133,45.861283,13.7199959,13.7199959"
           },
           "Ribnica":{
@@ -20574,7 +20675,7 @@ export const regionBoundMap = {
           },
           "Sentrupert":{
              "name":"Sentrupert",
-             "shortCode":"211",
+             "shortCode":"SI-211",
              "bounds":"15.0811857,45.9692488,15.1001544,15.1001544"
           },
           "Sevnica":{
@@ -20624,7 +20725,7 @@ export const regionBoundMap = {
           },
           "Smarjeske Toplice":{
              "name":"Smarjeske Toplice",
-             "shortCode":"206",
+             "shortCode":"SI-206",
              "bounds":"15.208964,45.8516813,15.2540588,15.2540588"
           },
           "Smartno ob Paki":{
@@ -20654,7 +20755,7 @@ export const regionBoundMap = {
           },
           "Sredisce ob Dravi":{
              "name":"Sredisce ob Dravi",
-             "shortCode":"202",
+             "shortCode":"SI-202",
              "bounds":"16.2576645,46.3783282,16.307938,16.307938"
           },
           "Starse":{
@@ -20669,7 +20770,7 @@ export const regionBoundMap = {
           },
           "Straza":{
              "name":"Straza",
-             "shortCode":"203",
+             "shortCode":"SI-203",
              "bounds":"15.0524704,45.731038,15.1246212,15.1246212"
           },
           "Sveta Ana":{
@@ -20679,7 +20780,7 @@ export const regionBoundMap = {
           },
           "Sveta Trojica v Slovenskih Goricah":{
              "name":"Sveta Trojica v Slovenskih Goricah",
-             "shortCode":"204",
+             "shortCode":"SI-204",
              "bounds":"15.8710305,46.5703949,15.8919506,15.8919506"
           },
           "Sveta Andraz v Slovenskih Goricah":{
@@ -20694,11 +20795,11 @@ export const regionBoundMap = {
           },
           "Sveti Jurij v Slovenskih Goricah":{
              "name":"Sveti Jurij v Slovenskih Goricah",
-             "shortCode":"210"
+             "shortCode":"SI-210"
           },
           "Sveti Tomaz":{
              "name":"Sveti Tomaz",
-             "shortCode":"205",
+             "shortCode":"SI-205",
              "bounds":"16.0732959,46.4768802,16.0874049,16.0874049"
           },
           "Tabor":{
@@ -20803,7 +20904,7 @@ export const regionBoundMap = {
           },
           "Zagorje ob Savi":{
              "name":"Zagorje ob Savi",
-             "shortCode":"142",
+             "shortCode":"SI-142",
              "bounds":"14.9775918,46.1116695,15.0149749,15.0149749"
           },
           "Zavrc":{
@@ -20929,7 +21030,7 @@ export const regionBoundMap = {
           },
           "Western":{
              "name":"Western",
-             "shortCode":"WE"
+             "shortCode":"SB-WE"
           }
        }
     },
@@ -20939,7 +21040,7 @@ export const regionBoundMap = {
        "regions":{
           "Awdal":{
              "name":"Awdal",
-             "shortCode":"AW",
+             "shortCode":"SO-AW",
              "bounds":"42.68300989999999,9.721214999999999,44.218021,44.218021"
           },
           "Bakool":{
@@ -20999,7 +21100,7 @@ export const regionBoundMap = {
           },
           "Sanaag":{
              "name":"Sanaag",
-             "shortCode":"SA",
+             "shortCode":"SO-SA",
              "bounds":"45.88597009999999,9.2556839,48.95186,48.95186"
           },
           "Shabeellaha Dhexe":{
@@ -21014,17 +21115,17 @@ export const regionBoundMap = {
           },
           "Sool":{
              "name":"Sool",
-             "shortCode":"SO",
+             "shortCode":"SO-SO",
              "bounds":"45.982599,7.999999899999999,48.973164,48.973164"
           },
           "Togdheer":{
              "name":"Togdheer",
-             "shortCode":"TO",
+             "shortCode":"SO-TO",
              "bounds":"44.6282671,8.0030579,46.98998,46.98998"
           },
           "Woqooyi Galbeed":{
              "name":"Woqooyi Galbeed",
-             "shortCode":"WO",
+             "shortCode":"SO-WO",
              "bounds":"43.2783189,8.785137899999999,45.927817,45.927817"
           }
        }
@@ -21086,33 +21187,41 @@ export const regionBoundMap = {
        "regions":{
           "Bird Island":{
              "name":"Bird Island",
+             "shortCode":"GS-111",
              "bounds":"55.2014173,-3.727366099999999,55.2104187,55.2104187"
           },
           "Bristol Island":{
              "name":"Bristol Island",
+             "shortCode":"GS-112",
              "bounds":"-26.628195,-59.06154280000001,-26.4389579,-26.4389579"
           },
           "Clerke Rocks":{
-             "name":"Clerke Rocks"
+             "name":"Clerke Rocks",
+             "shortCode":"GS-113"
           },
           "Montagu Island":{
              "name":"Montagu Island",
+             "shortCode":"GS-114",
              "bounds":"-26.4809131,-58.5150829,-26.2689113,-26.2689113"
           },
           "Saunders Island":{
              "name":"Saunders Island",
+             "shortCode":"GS-115",
              "bounds":"-60.3259277,-51.4145984,-60.04405979999999,-60.04405979999999"
           },
           "South Georgia":{
              "name":"South Georgia",
+             "shortCode":"GS-116",
              "bounds":"-38.0360415,-54.9184606,-35.7687379,-35.7687379"
           },
           "Southern Thule":{
              "name":"Southern Thule",
+             "shortCode":"GS-117",            
              "bounds":"-27.4491939,-59.47667240000001,-27.049801,-27.049801"
           },
           "Traversay Islands":{
              "name":"Traversay Islands",
+             "shortCode":"GS-118",         
              "bounds":"-27.6188181,-56.7354786,-27.1157984,-27.1157984"
           },
           "South Georgia and the South Sandwich Islands":{
@@ -21194,7 +21303,7 @@ export const regionBoundMap = {
           },
           "Almeria":{
              "name":"Almeria",
-             "shortCode":"AN",
+             "shortCode":"ES-AN",
              "bounds":"-2.4855446,36.817203,-2.4286886,-2.4286886"
           },
           "Araba/Alava":{
@@ -21470,31 +21579,31 @@ export const regionBoundMap = {
        "regions":{
           "Dakunu":{
              "name":"Dakunu",
-             "shortCode":"3",
+             "shortCode":"LK-3",
              "bounds":"79.987661,5.9190019,81.706919,81.706919"
           },
           "Naegenahira":{
              "name":"Naegenahira",
-             "shortCode":"5"
+             "shortCode":"LK-5"
           },
           "Sabaragamuwa":{
              "name":"Sabaragamuwa",
-             "shortCode":"9",
+             "shortCode":"LK-9",
              "bounds":"80.14614999999999,6.2283579,80.953733,80.953733"
           },
           "Uturu":{
              "name":"Uturu",
-             "shortCode":"4",
+             "shortCode":"LK-4",
              "bounds":"7.411532800000001,5.8262176,7.421439400000001,7.421439400000001"
           },
           "Western Province":{
              "name":"Western Province",
-             "shortCode":"WP",
+             "shortCode":"LK-WP",
              "bounds":"79.81655599999999,6.324857,80.3814099,80.3814099"
           },
           "Uva":{
              "name":"Uva",
-             "shortCode":"8"
+             "shortCode":"LK-8"
           },
           "Trikuṇāmalaya":{
              "name":"Trikuṇāmalaya",
@@ -21674,7 +21783,7 @@ export const regionBoundMap = {
           },
           "Gharb Kurdufan":{
              "name":"Gharb Kurdufan",
-             "shortCode":"GK",
+             "shortCode":"SD-GK",
              "bounds":"14.1889269,36.0545232,14.2186459,14.2186459"
           },
           "Janub Darfur":{
@@ -21714,7 +21823,7 @@ export const regionBoundMap = {
           },
           "Wasat Darfur Zalinjay":{
              "name":"Wasat Darfur Zalinjay",
-             "shortCode":"DC"
+             "shortCode":"SD-DC"
           },
           "Eastern Darfur":{
              "name":"Eastern Darfur",
@@ -22179,7 +22288,7 @@ export const regionBoundMap = {
           },
           "Lienchiang":{
              "name":"Lienchiang",
-             "shortCode":"LIE",
+             "shortCode":"TW-LIE",
              "bounds":"119.8896958,25.9304406,120.5283396,120.5283396"
           },
           "Miao-li":{
@@ -22199,7 +22308,7 @@ export const regionBoundMap = {
           },
           "New Taipei":{
              "name":"New Taipei",
-             "shortCode":"NWT",
+             "shortCode":"TW-NWT",
              "bounds":"121.2826735,24.6731851,122.0069052,122.0069052"
           },
           "T'ai-chung":{
@@ -22945,14 +23054,17 @@ export const regionBoundMap = {
        "regions":{
           "Atafu":{
              "name":"Atafu",
+             "shortCode":"TK-1234",
              "bounds":"-172.5227737,-8.5867074,-172.4639798,-172.4639798"
           },
           "Fakaofo":{
              "name":"Fakaofo",
+             "shortCode":"TK-1235",
              "bounds":"-171.2717915,-9.4448709,-171.1811113,-171.1811113"
           },
           "Nukunonu":{
              "name":"Nukunonu",
+             "shortCode":"TK-1236",
              "bounds":"-171.8605472,-9.2052225,-171.8435954,-171.8435954"
           },
           "Tokelau":{
@@ -23019,7 +23131,7 @@ export const regionBoundMap = {
           },
           "Mayaro-Rio Claro":{
              "name":"Mayaro-Rio Claro",
-             "shortCode":"MRC",
+             "shortCode":"TT-MRC",
              "bounds":"-61.23980999999999,10.0719549,-60.9645109,-60.9645109"
           },
           "Penal-Debe":{
@@ -23069,7 +23181,7 @@ export const regionBoundMap = {
           },
           "Tobago":{
              "name":"Tobago",
-             "shortCode":"TOB",
+             "shortCode":"TT-TOB",
              "bounds":"-60.84563170000001,11.1339872,-60.5174992,-60.5174992"
           },
           "Tunapuna-Piarco":{
@@ -23100,7 +23212,7 @@ export const regionBoundMap = {
        "regions":{
           "Ariana":{
              "name":"Ariana",
-             "shortCode":"12"
+             "shortCode":"TN-12"
           },
           "Beja":{
              "name":"Beja",
@@ -23641,12 +23753,12 @@ export const regionBoundMap = {
           },
           "Asgabat":{
              "name":"Asgabat",
-             "shortCode":"S",
+             "shortCode":"TM-S",
              "bounds":"58.00609579999999,37.8183276,58.4944724,58.4944724"
           },
           "Ashgabat":{
              "name":"Asgabat",
-             "shortCode":"S",
+             "shortCode":"TM-S",
              "bounds":"58.00609579999999,37.8183276,58.4944724,58.4944724"
           },
           "Balkan":{
@@ -23677,6 +23789,7 @@ export const regionBoundMap = {
        "regions":{
           "Turks and Caicos Islands":{
              "name":"Turks and Caicos Islands",
+             "shortCode":"TC-133~",
              "bounds":"-72.52069999999999,21.1459922,-71.05949989999999,-71.05949989999999"
           },
           "Providenciales and West Caicos":{
@@ -23717,40 +23830,40 @@ export const regionBoundMap = {
        "regions":{
           "Funafuti":{
              "name":"Funafuti",
-             "shortCode":"FUN",
+             "shortCode":"TV-FUN",
              "bounds":"179.0181181,-8.6493743,179.2050108,179.2050108"
           },
           "Nanumanga":{
              "name":"Nanumanga",
-             "shortCode":"NMG",
+             "shortCode":"TV-NMG",
              "bounds":"176.3118553,-6.3036536,176.3274765,176.3274765"
           },
           "Nanumea":{
              "name":"Nanumea",
-             "shortCode":"NMA",
+             "shortCode":"TV-NMA",
              "bounds":"176.109885,-5.7013769,176.1365461,176.1365461"
           },
           "Niutao":{
              "name":"Niutao",
-             "shortCode":"NIT",
+             "shortCode":"TV-NIT",
              "bounds":"177.3293352,-6.1153794,177.3547411,177.3547411"
           },
           "Nui":{
              "name":"Nui",
-             "shortCode":"NUI",
+             "shortCode":"TV-NUI",
              "bounds":"177.1450499,-7.246231000000001,177.16571,177.16571"
           },
           "Nukufetau":{
              "name":"Nukufetau",
-             "shortCode":"NKF"
+             "shortCode":"TV-NKF"
           },
           "Nukulaelae":{
              "name":"Nukulaelae",
-             "shortCode":"NKL"
+             "shortCode":"TV-NKL"
           },
           "Vaitupu":{
              "name":"Vaitupu",
-             "shortCode":"VAU",
+             "shortCode":"TV-VAU",
              "bounds":"178.6624575,-7.4991106,178.6972833,178.6972833"
           },
           "Tuvalu":{
@@ -23851,7 +23964,7 @@ export const regionBoundMap = {
           },
           "Central Region":{
              "name":"Central Region",
-             "shortCode":"CR",
+             "shortCode":"UG-CR",
              "bounds":"31.0092151,-0.9958260000000001,33.464169,33.464169"
           },
           "Dokolo":{
@@ -23971,7 +24084,7 @@ export const regionBoundMap = {
           },
           "Kiruhura":{
              "name":"Kiruhura",
-             "shortCode":"418",
+             "shortCode":"UG-418",
              "bounds":"30.601551,-0.7016209999999999,31.155619,31.155619"
           },
           "Kisoro":{
@@ -24457,7 +24570,7 @@ export const regionBoundMap = {
           },
           "Avtonomna Respublika Krym":{
              "name":"Avtonomna Respublika Krym",
-             "shortCode":"43",
+             "shortCode":"UA-43",
              "bounds":"32.4671611,44.3834252,36.6535212,36.6535212"
           },
           "Kyiv":{
@@ -24467,7 +24580,7 @@ export const regionBoundMap = {
           },
           "Sevastopol":{
              "name":"Sevastopol",
-             "shortCode":"40",
+             "shortCode":"UA-40",
              "bounds":"33.3785441,44.387115,33.897497,33.897497"
           }
        }
@@ -24524,11 +24637,11 @@ export const regionBoundMap = {
        "regions":{
           "Avon":{
              "name":"Avon",
-             "shortCode":"AVN"
+             "shortCode":"GB-AVN"
           },
           "England":{
              "name":"England",
-             "shortCode":"EN",
+             "shortCode":"GB-EN",
              "bounds":"-6.4185458,49.8647411,1.7629159,1.7629159"
           },
           "Bedfordshire":{
@@ -24538,12 +24651,12 @@ export const regionBoundMap = {
           },
           "Berkshire":{
              "name":"Berkshire",
-             "shortCode":"BRK",
+             "shortCode":"GB-BRK",
              "bounds":"-73.5081419,42.03986099999999,-72.948753,-72.948753"
           },
           "Bristol, City of":{
              "name":"Bristol, City of",
-             "shortCode":"COB",
+             "shortCode":"GB-COB",
              "bounds":"-72.99855,41.6395989,-72.8833729,-72.8833729"
           },
           "Buckinghamshire":{
@@ -24558,12 +24671,12 @@ export const regionBoundMap = {
           },
           "Cheshire":{
              "name":"Cheshire",
-             "shortCode":"CHS",
+             "shortCode":"GB-CHS",
              "bounds":"-3.128278,52.9471496,-1.9747939,-1.9747939"
           },
           "Cleveland":{
              "name":"Cleveland",
-             "shortCode":"CLV",
+             "shortCode":"GB-CLV",
              "bounds":"-81.878976,41.390628,-81.5327439,-81.5327439"
           },
           "Cornwall":{
@@ -24618,7 +24731,7 @@ export const regionBoundMap = {
           },
           "Greater Manchester":{
              "name":"Greater Manchester",
-             "shortCode":"GTM",
+             "shortCode":"GB-GTM",
              "bounds":"-2.7305208,53.3272977,-1.9096223,-1.9096223"
           },
           "Hampshire":{
@@ -24628,7 +24741,7 @@ export const regionBoundMap = {
           },
           "Hereford and Worcester":{
              "name":"Hereford and Worcester",
-             "shortCode":"HWR"
+             "shortCode":"GB-HWR"
           },
           "Herefordshire":{
              "name":"Herefordshire",
@@ -24667,7 +24780,7 @@ export const regionBoundMap = {
           },
           "London":{
              "name":"London",
-             "shortCode":"LDN",
+             "shortCode":"GB-LDN",
              "bounds":"-0.3514683,51.38494009999999,0.148271,0.148271"
           },
           "Merseyside":{
@@ -24677,7 +24790,7 @@ export const regionBoundMap = {
           },
           "Middlesex":{
              "name":"Middlesex",
-             "shortCode":"MDX",
+             "shortCode":"GB-MDX",
              "bounds":"-74.527025,40.5553239,-74.4694459,-74.4694459"
           },
           "Norfolk":{
@@ -24727,11 +24840,11 @@ export const regionBoundMap = {
           },
           "South Humberside":{
              "name":"South Humberside",
-             "shortCode":"SHM"
+             "shortCode":"GB-SHM"
           },
           "South Yorkshire":{
              "name":"South Yorkshire",
-             "shortCode":"SYK",
+             "shortCode":"GB-SYK",
              "bounds":"-1.82259,53.30157699999999,-0.8653331,-0.8653331"
           },
           "Staffordshire":{
@@ -24751,7 +24864,7 @@ export const regionBoundMap = {
           },
           "Tyne and Wear":{
              "name":"Tyne and Wear",
-             "shortCode":"TWR",
+             "shortCode":"GB-TWR",
              "bounds":"-1.8526595,54.7990491,-1.3456649,-1.3456649"
           },
           "Warwickshire":{
@@ -24761,7 +24874,7 @@ export const regionBoundMap = {
           },
           "West Midlands":{
              "name":"West Midlands",
-             "shortCode":"WMD",
+             "shortCode":"GB-WMD",
              "bounds":"-2.2068816,52.3477246,-1.4239381,-1.4239381"
           },
           "West Sussex":{
@@ -24771,7 +24884,7 @@ export const regionBoundMap = {
           },
           "West Yorkshire":{
              "name":"West Yorkshire",
-             "shortCode":"WYK",
+             "shortCode":"GB-WYK",
              "bounds":"-2.1732938,53.51974,-1.1988144,-1.1988144"
           },
           "Wiltshire":{
@@ -24796,7 +24909,7 @@ export const regionBoundMap = {
           },
           "Belfast, City of":{
              "name":"Belfast, City of",
-             "shortCode":"BLF",
+             "shortCode":"GB-BLF",
              "bounds":"-6.04526,54.53055,-5.808004599999999,-5.808004599999999"
           },
           "Down":{
@@ -24811,7 +24924,7 @@ export const regionBoundMap = {
           },
           "Londonderry":{
              "name":"Londonderry",
-             "shortCode":"LDY",
+             "shortCode":"GB-LDY",
              "bounds":"-7.3606922,54.96971199999999,-7.262598799999999,-7.262598799999999"
           },
           "Derry, City of":{
@@ -24821,11 +24934,11 @@ export const regionBoundMap = {
           },
           "Tyrone":{
              "name":"Tyrone",
-             "shortCode":"TYR"
+             "shortCode":"GB-TYR"
           },
           "Aberdeen, City of":{
              "name":"Aberdeen, City of",
-             "shortCode":"AN",
+             "shortCode":"GB-AN",
              "bounds":"-2.2058926,57.1041518,-2.0441627,-2.0441627"
           },
           "Aberdeenshire":{
@@ -24845,21 +24958,21 @@ export const regionBoundMap = {
           },
           "Ayrshire":{
              "name":"Ayrshire",
-             "shortCode":"ARG",
+             "shortCode":"GB-ARG",
              "bounds":"-5.3978616,54.9976443,-3.9570569,-3.9570569"
           },
           "Berwickshire":{
              "name":"Berwickshire",
-             "shortCode":"BEW"
+             "shortCode":"GB-BEW"
           },
           "Bute":{
              "name":"Bute",
-             "shortCode":"BUT",
+             "shortCode":"GB-BUT",
              "bounds":"-5.2218257,55.7213369,-5.000835700000001,-5.000835700000001"
           },
           "Caithness":{
              "name":"Caithness",
-             "shortCode":"CAI"
+             "shortCode":"GB-CAI"
           },
           "Clackmannanshire":{
              "name":"Clackmannanshire",
@@ -24868,12 +24981,12 @@ export const regionBoundMap = {
           },
           "Dunbartonshire (Dumbarton)":{
              "name":"Dunbartonshire (Dumbarton)",
-             "shortCode":"DNB",
+             "shortCode":"GB-DNB",
              "bounds":"-4.607922600000001,55.9300741,-4.515896199999999,-4.515896199999999"
           },
           "Dundee, City of":{
              "name":"Dundee, City of",
-             "shortCode":"DD",
+             "shortCode":"GB-DD",
              "bounds":"-3.0980246,56.4436037,-2.8356419,-2.8356419"
           },
           "East Lothian (Haddingtonshire)":{
@@ -24883,7 +24996,7 @@ export const regionBoundMap = {
           },
           "Edinburgh, City of":{
              "name":"Edinburgh, City of",
-             "shortCode":"EB",
+             "shortCode":"GB-EB",
              "bounds":"-3.3330187,55.8904228,-3.0776588,-3.0776588"
           },
           "Fife":{
@@ -24893,16 +25006,16 @@ export const regionBoundMap = {
           },
           "Glasgow, City of":{
              "name":"Glasgow, City of",
-             "shortCode":"GLA",
+             "shortCode":"GB-GLA",
              "bounds":"-4.3932005,55.7812791,-4.0717167,-4.0717167"
           },
           "Inverness-shire":{
              "name":"Inverness-shire",
-             "shortCode":"INV"
+             "shortCode":"GB-INV"
           },
           "Lanarkshire":{
              "name":"Lanarkshire",
-             "shortCode":"LKS",
+             "shortCode":"GB-LKS",
              "bounds":"-4.2825719,55.2907676,-3.396407,-3.396407"
           },
           "Midlothian (County of Edinburgh)":{
@@ -24912,7 +25025,7 @@ export const regionBoundMap = {
           },
           "Moray (Elginshire)":{
              "name":"Moray (Elginshire)",
-             "shortCode":"MOR",
+             "shortCode":"GB-MOR",
              "bounds":"-3.7647451,57.06845360000001,-2.6498225,-2.6498225"
           },
           "Orkney":{
@@ -24922,7 +25035,7 @@ export const regionBoundMap = {
           },
           "Perthshire":{
              "name":"Perthshire",
-             "shortCode":"PER"
+             "shortCode":"GB-PER"
           },
           "Renfrewshire":{
              "name":"Renfrewshire",
@@ -24931,21 +25044,21 @@ export const regionBoundMap = {
           },
           "Roxburghshire":{
              "name":"Roxburghshire",
-             "shortCode":"ROX"
+             "shortCode":"GB-ROX"
           },
           "Shetland (Zetland)":{
              "name":"Shetland (Zetland)",
-             "shortCode":"SHI",
+             "shortCode":"GB-SHI",
              "bounds":"-2.1175288,59.5068114,-0.7245321,-0.7245321"
           },
           "Stirlingshire":{
              "name":"Stirlingshire",
-             "shortCode":"STI",
+             "shortCode":"GB-STI",
              "bounds":"-4.8544952,55.95722800000001,-3.7979164,-3.7979164"
           },
           "Sutherland":{
              "name":"Sutherland",
-             "shortCode":"SUT"
+             "shortCode":"GB-SUT"
           },
           "West Lothian (Linlithgowshire)":{
              "name":"West Lothian (Linlithgowshire)",
@@ -24954,7 +25067,7 @@ export const regionBoundMap = {
           },
           "Wigtownshire":{
              "name":"Wigtownshire",
-             "shortCode":"WIG",
+             "shortCode":"GB-WIG",
              "bounds":"-4.4499635,54.8610159,-4.4359848,-4.4359848"
           },
           "Gwynedd":{
@@ -25865,7 +25978,7 @@ export const regionBoundMap = {
           },
           "American Samoa":{
              "name":"American Samoa",
-             "shortCode":"AS",
+             "shortCode":"US-AS",
              "bounds":"-171.0076904,-14.7217608,-169.2059326,-169.2059326"
           },
           "Arizona":{
@@ -25905,7 +26018,7 @@ export const regionBoundMap = {
           },
           "Micronesia":{
              "name":"Micronesia",
-             "shortCode":"FM",
+             "shortCode":"US-FM",
              "bounds":"136.9226075,0.1538084,163.5177612,163.5177612"
           },
           "Florida":{
@@ -25920,7 +26033,7 @@ export const regionBoundMap = {
           },
           "Guam":{
              "name":"Guam",
-             "shortCode":"GU",
+             "shortCode":"US-GU",
              "bounds":"144.4647218,13.1022175,145.112915,145.112915"
           },
           "Hawaii":{
@@ -25970,7 +26083,7 @@ export const regionBoundMap = {
           },
           "Marshall Islands":{
              "name":"Marshall Islands",
-             "shortCode":"MH",
+             "shortCode":"US-MH",
              "bounds":"159.8840332,4.1601583,172.5732421,172.5732421"
           },
           "Maryland":{
@@ -26050,7 +26163,7 @@ export const regionBoundMap = {
           },
           "Northern Mariana Islands":{
              "name":"Northern Mariana Islands",
-             "shortCode":"MP",
+             "shortCode":"US-MP",
              "bounds":"144.7668457,13.9713848,146.2060546,146.2060546"
           },
           "Ohio":{
@@ -26070,7 +26183,7 @@ export const regionBoundMap = {
           },
           "Palau":{
              "name":"Palau",
-             "shortCode":"PW",
+             "shortCode":"US-PW",
              "bounds":"131.0115,2.6394,135.0769,135.0769"
           },
           "Pennsylvania":{
@@ -26080,7 +26193,7 @@ export const regionBoundMap = {
           },
           "Puerto Rico":{
              "name":"Puerto Rico",
-             "shortCode":"PR",
+             "shortCode":"US-PR",
              "bounds":"-67.9611844,17.8449191,-65.2105715,-65.2105715"
           },
           "Rhode Island":{
@@ -26120,7 +26233,7 @@ export const regionBoundMap = {
           },
           "Virgin Islands":{
              "name":"Virgin Islands",
-             "shortCode":"VI",
+             "shortCode":"US-VI",
              "bounds":"-65.1101,17.5482999,-64.4391,-64.4391"
           },
           "Virginia":{
@@ -26150,16 +26263,16 @@ export const regionBoundMap = {
           },
           "Armed Forces Americas":{
              "name":"Armed Forces Americas",
-             "shortCode":"AA"
+             "shortCode":"US-AA"
           },
           "Armed Forces Europe, Canada, Africa and Middle East":{
              "name":"Armed Forces Europe, Canada, Africa and Middle East",
-             "shortCode":"AE",
+             "shortCode":"US-AE",
              "bounds":"24.696775,11.7975,63.3333366,63.3333366"
           },
           "Armed Forces Pacific":{
              "name":"Armed Forces Pacific",
-             "shortCode":"AP",
+             "shortCode":"US-AP",
              "bounds":"170.5957,18.7763,-66.885417,-66.885417"
           }
        }
@@ -26190,7 +26303,7 @@ export const regionBoundMap = {
           },
           "Kingman Reef":{
              "name":"Kingman Reef",
-             "shortCode":"89"
+             "shortCode":"UM-89"
           },
           "Midway Islands":{
              "name":"Midway Islands",
@@ -26214,12 +26327,12 @@ export const regionBoundMap = {
           },
           "Bajo Nuevo Bank":{
              "name":"Bajo Nuevo Bank",
-             "shortCode":"BN",
+             "shortCode":"UM-BN",
              "bounds":"-78.80866689999999,15.7955841,-78.53220089999999,-78.53220089999999"
           },
           "Serranilla Bank":{
              "name":"Serranilla Bank",
-             "shortCode":"SB",
+             "shortCode":"UM-SB",
              "bounds":"-80.04748049999999,15.745837,-79.68199849999999,-79.68199849999999"
           }
        }
@@ -26900,22 +27013,22 @@ export const regionBoundMap = {
        "regions":{
           "Anegada":{
              "name":"Anegada",
-             "shortCode":"ANG",
+             "shortCode":"VG-ANG",
              "bounds":"-64.4164284,18.6887217,-64.2703594,-64.2703594"
           },
           "Jost Van Dyke":{
              "name":"Jost Van Dyke",
-             "shortCode":"JVD",
+             "shortCode":"VG-JVD",
              "bounds":"-64.78061,18.4350933,-64.7207098,-64.7207098"
           },
           "Tortola":{
              "name":"Tortola",
-             "shortCode":"TTA",
+             "shortCode":"VG-TTA",
              "bounds":"-64.7173174,18.3824133,-64.5533172,-64.5533172"
           },
           "Virgin Gorda":{
              "name":"Virgin Gorda",
-             "shortCode":"VGD",
+             "shortCode":"VG-VGD",
              "bounds":"-64.44685079999999,18.425395,-64.3204021,-64.3204021"
           },
           "British Virgin Islands":{
@@ -26931,17 +27044,17 @@ export const regionBoundMap = {
        "regions":{
           "St. Thomas":{
              "name":"St. Thomas",
-             "shortCode":"STH",
+             "shortCode":"VI-STH",
              "bounds":"-65.0419649,18.3025019,-64.8318986,-64.8318986"
           },
           "St. John":{
              "name":"St. John",
-             "shortCode":"SJO",
+             "shortCode":"VI-SJO",
              "bounds":"-64.7997762,18.2982861,-64.6607028,-64.6607028"
           },
           "St. Croix":{
              "name":"St. Croix",
-             "shortCode":"SCR",
+             "shortCode":"VI-SCR",
              "bounds":"-64.903244,17.674162,-64.565497,-64.565497"
           },
           "Saint Croix":{
@@ -26977,7 +27090,7 @@ export const regionBoundMap = {
           },
           "Wallis":{
              "name":"Wallis",
-             "shortCode":"WAL"
+             "shortCode":"WF-WAL"
           },
           "`Uvea":{
              "name":"`Uvea",
@@ -26992,27 +27105,27 @@ export const regionBoundMap = {
        "regions":{
           "Es Smara":{
              "name":"Es Smara",
-             "shortCode":"ESM",
+             "shortCode":"EH-ESM",
              "bounds":"-11.7116834,26.7147937,-11.6518594,-11.6518594"
           },
           "Boujdour":{
              "name":"Boujdour",
-             "shortCode":"BOD",
+             "shortCode":"EH-BOD",
              "bounds":"-14.5010316,26.0752699,-14.4467785,-14.4467785"
           },
           "Laayoune":{
              "name":"Laayoune",
-             "shortCode":"LAA",
+             "shortCode":"EH-LAA",
              "bounds":"-13.2542602,27.0806755,-13.1128054,-13.1128054"
           },
           "Aousserd":{
              "name":"Aousserd",
-             "shortCode":"AOU",
+             "shortCode":"EH-AOU",
              "bounds":"-14.3454677,22.5377291,-14.3151426,-14.3151426"
           },
           "Oued ed Dahab":{
              "name":"Oued ed Dahab",
-             "shortCode":"OUD",
+             "shortCode":"EH-OUD",
              "bounds":"-17.1044788,20.7741579,-11.9888307,-11.9888307"
           },
           "Western Sahara":{
