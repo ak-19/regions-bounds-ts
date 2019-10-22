@@ -17913,7 +17913,7 @@ export const regionBoundMap = {
           },
           "Aibonito":{
              "name":"Aibonito",
-             "shortCode":"PR-115",             
+             "shortCode":"PR-115",
              "bounds":"-66.32091299999999,18.0758839,-66.216397,-66.216397"
           },
           "Anasco":{
@@ -18058,7 +18058,7 @@ export const regionBoundMap = {
           },
           "Humacao":{
              "name":"Humacao",
-             "shortCode":"PR-143", 
+             "shortCode":"PR-143",
              "bounds":"-65.8776149,18.0693059,-65.7298717,-65.7298717"
           },
           "Juana Diaz":{
@@ -19207,7 +19207,7 @@ export const regionBoundMap = {
        "regions":{
           "Saint Martin":{
              "name":"Saint Martin",
-             "shortCode":"MF-111",         
+             "shortCode":"MF-111",
              "bounds":"-63.1535899,18.0050985,-63.01004179999999,-63.01004179999999"
           },
           "St. Martin":{
@@ -21241,12 +21241,12 @@ export const regionBoundMap = {
           },
           "Southern Thule":{
              "name":"Southern Thule",
-             "shortCode":"GS-117",            
+             "shortCode":"GS-117",
              "bounds":"-27.4491939,-59.47667240000001,-27.049801,-27.049801"
           },
           "Traversay Islands":{
              "name":"Traversay Islands",
-             "shortCode":"GS-118",         
+             "shortCode":"GS-118",
              "bounds":"-27.6188181,-56.7354786,-27.1157984,-27.1157984"
           },
           "South Georgia and the South Sandwich Islands":{
