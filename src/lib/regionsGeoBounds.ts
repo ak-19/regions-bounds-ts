@@ -2056,11 +2056,6 @@ export const regionBoundMap = {
             shortCode: 'AZ-ABS',
             bounds: '48.8505896338,39.9530138209,49.8883040706,40.6368480489'
           },
-          Goygol: {
-            name: 'Goygol',
-            shortCode: 'AZ-GYG',
-            bounds: '46.0789758638,40.27617239,46.5109391616,40.8328567574'
-          },
           Kurdamir: {
             name: 'Kurdamir',
             shortCode: 'AZ-KUR',
@@ -2085,11 +2080,6 @@ export const regionBoundMap = {
             name: 'Shamkir',
             shortCode: 'AZ-SKR',
             bounds: '45.7218400409,40.5571888288,46.3104346046,41.1366625034'
-          },
-          Agsu: {
-            name: 'Agsu',
-            shortCode: 'AZ-AGU',
-            bounds: '48.0796289412,40.2784203147,48.6521004584,40.7938668893'
           },
           Shamakhi: {
             name: 'Shamakhi',
