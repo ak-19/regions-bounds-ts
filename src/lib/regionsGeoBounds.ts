@@ -1501,11 +1501,6 @@ export const regionBoundMap = {
              "shortCode":"AZ-AGS",
              "bounds":"47.2076924988,40.298419094,47.6187268414,40.7888542751"
           },
-          "Agstafa":{
-             "name":"Agstafa",
-             "shortCode":"AZ-AGA",
-             "bounds":"45.0978334998,40.948380197,45.7703368519,41.452923075"
-          },
           "Agsu":{
              "name":"Agsu",
              "shortCode":"AZ-AGU",
@@ -1518,13 +1513,13 @@ export const regionBoundMap = {
           },
           "Baki":{
              "name":"Baki",
-             "shortCode":"AZ-BAK",
-             "bounds":"49.6538049,40.302583,50.0561143,50.0561143"
+             "shortCode":"AZ-BA",
+             "bounds": '49.2919063656,39.666571356,50.625743035,40.587469794'
           },
-          "Baku":{
-             "name":"Baki",
-             "shortCode":"AZ-BAK",
-             "bounds":"49.6538049,40.302583,50.0561143,40.486602"
+          Baku: {
+            name: 'Baku',
+            shortCode: 'AZ-BA',
+            bounds: '49.2919063656,39.666571356,50.625743035,40.587469794'
           },
           "Babək":{
              "name":"Babək",
@@ -1631,11 +1626,6 @@ export const regionBoundMap = {
              "shortCode":"AZ-LAN",
              "bounds":"45.8831876439,39.4386524519,46.7356282898,39.958129788"
           },
-          "Lerik":{
-             "name":"Lerik",
-             "shortCode":"AZ-LER",
-             "bounds":"48.2256349969,38.469154046,48.7304419289,38.939871528"
-          },
           "Masalli":{
              "name":"Masalli",
              "shortCode":"AZ-MAS",
@@ -1650,11 +1640,6 @@ export const regionBoundMap = {
              "name":"Oguz",
              "shortCode":"AZ-OGU",
              "bounds":"47.270220982,40.7955980492,47.7004272797,41.261789438"
-          },
-          "Ordubad":{
-             "name":"Ordubad",
-             "shortCode":"AZ-ORD",
-             "bounds":"45.718946161,38.862667745,46.135870809,39.294123976"
           },
           "Qəbələ":{
              "name":"Qəbələ",
@@ -1680,16 +1665,6 @@ export const regionBoundMap = {
              "name":"Quba",
              "shortCode":"AZ-QBA",
              "bounds":"47.926459995,40.8950751823,48.747236769,41.4834888779"
-          },
-          "Qubadli":{
-             "name":"Qubadli",
-             "shortCode":"AZ-QBI",
-             "bounds":"46.360869995,39.1285938583,46.8229097841,39.485083727"
-          },
-          "Qusar":{
-             "name":"Qusar",
-             "shortCode":"AZ-QUS",
-             "bounds":"47.8134910366,41.1576948114,48.5754643084,41.7227249215"
           },
           "Saatli":{
              "name":"Saatli",
@@ -1761,11 +1736,6 @@ export const regionBoundMap = {
              "shortCode":"AZ-TAR",
              "bounds":"46.4994153182,40.0329831003,47.0863045586,40.4800100774"
           },
-          "Tovuz":{
-             "name":"Tovuz",
-             "shortCode":"AZ-TOV",
-             "bounds":"45.442842783,40.5949384634,46.2046529479,41.2321019035"
-          },
           "Ucar":{
              "name":"Ucar",
              "shortCode":"AZ-UCA",
@@ -1806,20 +1776,10 @@ export const regionBoundMap = {
              "shortCode":"AZ-ZAN",
              "bounds":"46.395286499,38.882175599,46.866391477,39.2279934761"
           },
-          "Zaqatala":{
-             "name":"Zaqatala",
-             "shortCode":"AZ-ZAQ",
-             "bounds":"46.2798710576,41.345022685,47.028262363,41.851400045"
-          },
           "Zərdab":{
              "name":"Zərdab",
              "shortCode":"AZ-ZAR",
              "bounds":"47.4428202648,40.0967259794,47.9443400408,40.390687364"
-          },
-          "Kangarli":{
-             "name":"Kangarli",
-             "shortCode":"AZ-KAN",
-             "bounds":"45.0512370849,39.297007351,45.266191021,39.59970286"
           },
           "Şəki":{
              "name":"Şəki",
@@ -1835,11 +1795,6 @@ export const regionBoundMap = {
              "name":"Bakı",
              "shortCode":"AZ-BA",
              "bounds":"49.2919063656,39.666571356,50.625743035,40.587469794"
-          },
-          "Lankaran":{
-             "name":"Lankaran",
-             "shortCode":"AZ-LA",
-             "bounds":"48.8262982232,38.7267097731,48.8634326891,38.7880444425"
           },
           "Naxçıvan":{
              "name":"Naxçıvan",
@@ -1880,6 +1835,311 @@ export const regionBoundMap = {
              "name":"Naftalan",
              "shortCode":"AZ-NA",
              "bounds":"46.8116112693,40.4956179671,46.8408873909,40.5201580735"
+          },
+          Qazakh: {
+            name: 'Qazakh',
+            shortCode: 'AZ-QAZ',
+            bounds: '44.960697062,40.967991435,45.3987589861,41.3499188094'
+          },
+          Agstafa: {
+            name: 'Agstafa',
+            shortCode: 'AZ-AGA',
+            bounds: '45.0978334998,40.948380197,45.7703368519,41.452923075'
+          },
+          Tovuz: {
+            name: 'Tovuz',
+            shortCode: 'AZ-TOV',
+            bounds: '45.442842783,40.5949384634,46.2046529479,41.2321019035'
+          },
+          Dashkasan: {
+            name: 'Dashkasan',
+            shortCode: 'AZ-DAS',
+            bounds: '45.819151645,40.260437724,46.2264087263,40.666717027'
+          },
+          Kalbajar: {
+            name: 'Kalbajar',
+            shortCode: 'AZ-KAL',
+            bounds: '45.576266724,39.7961478715,46.7615698593,40.3150589062'
+          },
+          Lankaran: {
+            name: 'Lankaran',
+            shortCode: 'AZ-LA',
+            bounds: '48.8262982232,38.7267097731,48.8634326891,38.7880444425'
+          },
+          Qubadli: {
+            name: 'Qubadli',
+            shortCode: 'AZ-QBI',
+            bounds: '46.360869995,39.1285938583,46.8229097841,39.485083727'
+          },
+          Zangilan: {
+            name: 'Zangilan',
+            shortCode: 'AZ-ZAN',
+            bounds: '46.395286499,38.882175599,46.866391477,39.2279934761'
+          },
+          Sharur: {
+            name: 'Sharur',
+            shortCode: 'AZ-SAR',
+            bounds: '44.8239530727,39.387092628,45.167919555,39.770390116'
+          },
+          Sadarak: {
+            name: 'Sadarak',
+            shortCode: 'AZ-SAD',
+            bounds: '44.774558553,39.6305400262,44.9533598161,39.735965352'
+          },
+          Kangarli: {
+            name: 'Kangarli',
+            shortCode: 'AZ-KAN',
+            bounds: '45.0512370849,39.297007351,45.266191021,39.59970286'
+          },
+          Babek: {
+            name: 'Babek',
+            shortCode: 'AZ-BAB',
+            bounds: '45.1143497479,38.968452898,45.5605062191,39.592918128'
+          },
+          Shahbuz: {
+            name: 'Shahbuz',
+            shortCode: 'AZ-SAH',
+            bounds: '45.3570561054,39.2859744331,45.803074585,39.569782206'
+          },
+          Julfa: {
+            name: 'Julfa',
+            shortCode: 'AZ-CUL',
+            bounds: '45.4676436698,38.939129903,45.901788426,39.3591421'
+          },
+          Ordubad: {
+            name: 'Ordubad',
+            shortCode: 'AZ-ORD',
+            bounds: '45.718946161,38.862667745,46.135870809,39.294123976'
+          },
+          Balakan: {
+            name: 'Balakan',
+            shortCode: 'AZ-BAL',
+            bounds: '46.179537394,41.5546731631,46.7164046569,41.89044159'
+          },
+          Zaqatala: {
+            name: 'Zaqatala',
+            shortCode: 'AZ-ZAQ',
+            bounds: '46.2798710576,41.345022685,47.028262363,41.851400045'
+          },
+          Khachmaz: {
+            name: 'Khachmaz',
+            shortCode: 'AZ-XAC',
+            bounds: '48.4622109448,41.3485100367,49.0786976138,41.845282294'
+          },
+          Qusar: {
+            name: 'Qusar',
+            shortCode: 'AZ-QUS',
+            bounds: '47.8134910366,41.1576948114,48.5754643084,41.7227249215'
+          },
+          Oghuz: {
+            name: 'Oghuz',
+            shortCode: 'AZ-OGU',
+            bounds: '47.270220982,40.7955980492,47.7004272797,41.261789438'
+          },
+          Qakh: {
+            name: 'Qakh',
+            shortCode: 'AZ-QAX',
+            bounds: '46.6155386496,40.9109398464,47.1792187838,41.569918518'
+          },
+          Qabala: {
+            name: 'Qabala',
+            shortCode: 'AZ-QAB',
+            bounds: '47.5256059097,40.6394577088,48.0311047711,41.207134021'
+          },
+          Samukh: {
+            name: 'Samukh',
+            shortCode: 'AZ-SMX',
+            bounds: '46.087607991,40.6817548688,46.7597095073,41.200173645'
+          },
+          Imishli: {
+            name: 'Imishli',
+            shortCode: 'AZ-IMI',
+            bounds: '47.741820103,39.5665257838,48.379403924,40.1360517443'
+          },
+          Bilasuvar: {
+            name: 'Bilasuvar',
+            shortCode: 'AZ-BIL',
+            bounds: '47.9577081536,39.3007022165,48.778552687,39.7163615988'
+          },
+          Jalilabad: {
+            name: 'Jalilabad',
+            shortCode: 'AZ-CAL',
+            bounds: '48.104329468,38.9857343615,48.7637732276,39.4197647159'
+          },
+          Yardymli: {
+            name: 'Yardymli',
+            shortCode: 'AZ-YAR',
+            bounds: '47.99074467,38.7131932542,48.5476107111,39.0299693869'
+          },
+          Lerik: {
+            name: 'Lerik',
+            shortCode: 'AZ-LER',
+            bounds: '48.2256349969,38.469154046,48.7304419289,38.939871528'
+          },
+          Jabrayil: {
+            name: 'Jabrayil',
+            shortCode: 'AZ-CAB',
+            bounds: '46.7034855486,39.158902894,47.2613195518,39.4774356154'
+          },
+          Fizuli: {
+            name: 'Fizuli',
+            shortCode: 'AZ-FUZ',
+            bounds: '47.0190735213,39.3663835565,47.6249802826,39.7383499212'
+          },
+          Beylagan: {
+            name: 'Beylagan',
+            shortCode: 'AZ-BEY',
+            bounds: '47.4325366548,39.5714107402,47.8897180516,40.1594870057'
+          },
+          Shabran: {
+            name: 'Shabran',
+            shortCode: 'AZ-SBN',
+            bounds: '48.6427987003,40.8550517854,49.171641472,41.3648656281'
+          },
+          Siazan: {
+            name: 'Siazan',
+            shortCode: 'AZ-SIY',
+            bounds: '48.8232011253,40.8692111272,49.3714208752,41.186194363'
+          },
+          Khizi: {
+            name: 'Khizi',
+            shortCode: 'AZ-XIZ',
+            bounds: '48.769147577,40.5056157501,49.538828972,40.9761555039'
+          },
+          Sumqayit: {
+            name: 'Sumqayit',
+            shortCode: 'AZ-SM',
+            bounds: '49.4826957543,40.5399547391,49.7097186806,40.662868557'
+          },
+          Neftchala: {
+            name: 'Neftchala',
+            shortCode: 'AZ-NEF',
+            bounds: '48.7079626809,39.1284646671,49.40894616,39.5481806501'
+          },
+          Masally: {
+            name: 'Masally',
+            shortCode: 'AZ-MAS',
+            bounds: '48.4777958514,38.8283537867,48.918223504,39.1540186629'
+          },
+          Nakhchivan: {
+            name: 'Nakhchivan',
+            shortCode: 'AZ-NX',
+            bounds: '45.3115291678,39.1802961292,45.5308956243,39.2450208602'
+          },
+          Khojali: {
+            name: 'Khojali',
+            shortCode: 'AZ-XCI',
+            bounds: '46.4371452174,39.6269355335,46.9236271497,40.018151964'
+          },
+          Shusha: {
+            name: 'Shusha',
+            shortCode: 'AZ-X01~',
+            bounds: '46.7329977764,39.7451327466,46.7769312906,39.7718225798'
+          },
+          Tartar: {
+            name: 'Tartar',
+            shortCode: 'AZ-TAR',
+            bounds: '46.4994153182,40.0329831003,47.0863045586,40.4800100774'
+          },
+          Khojavend: {
+            name: 'Khojavend',
+            shortCode: 'AZ-XVD',
+            bounds: '46.640698683,39.3779068064,47.3393640481,39.8829664173'
+          },
+          Hajigabul: {
+            name: 'Hajigabul',
+            shortCode: 'AZ-HAC',
+            bounds: '48.4400720561,39.8121180279,49.3568119647,40.3447211778'
+          },
+          Absheron: {
+            name: 'Absheron',
+            shortCode: 'AZ-ABS',
+            bounds: '48.8505896338,39.9530138209,49.8883040706,40.6368480489'
+          },
+          Goygol: {
+            name: 'Goygol',
+            shortCode: 'AZ-GYG',
+            bounds: '46.0789758638,40.27617239,46.5109391616,40.8328567574'
+          },
+          Kurdamir: {
+            name: 'Kurdamir',
+            shortCode: 'AZ-KUR',
+            bounds: '47.8511674331,40.0309418812,48.4659619478,40.5323066274'
+          },
+          Zardab: {
+            name: 'Zardab',
+            shortCode: 'AZ-ZAR',
+            bounds: '47.4428202648,40.0967259794,47.9443400408,40.390687364'
+          },
+          Saatly: {
+            name: 'Saatly',
+            shortCode: 'AZ-SAT',
+            bounds: '48.2146594584,39.6147657332,48.7036218612,39.9998843447'
+          },
+          Barda: {
+            name: 'Barda',
+            shortCode: 'AZ-BAR',
+            bounds: '46.9693091159,40.1534150252,47.524003941,40.5625890158'
+          },
+          Shamkir: {
+            name: 'Shamkir',
+            shortCode: 'AZ-SKR',
+            bounds: '45.7218400409,40.5571888288,46.3104346046,41.1366625034'
+          },
+          Agsu: {
+            name: 'Agsu',
+            shortCode: 'AZ-AGU',
+            bounds: '48.0796289412,40.2784203147,48.6521004584,40.7938668893'
+          },
+          Shamakhi: {
+            name: 'Shamakhi',
+            shortCode: 'AZ-SMI',
+            bounds: '48.389222446,40.2680075144,48.8080599298,40.9484569361'
+          },
+          Ujar: {
+            name: 'Ujar',
+            shortCode: 'AZ-UCA',
+            bounds: '47.4654545433,40.2921662463,47.9926058294,40.5348387721'
+          },
+          Gobustan: {
+            name: 'Gobustan',
+            shortCode: 'AZ-QOB',
+            bounds: '48.6615572452,40.2915202911,49.2631225931,40.7616983097'
+          },
+          Ismailli: {
+            name: 'Ismailli',
+            shortCode: 'AZ-ISM',
+            bounds: '47.7324666681,40.5129021274,48.4926269876,41.0631269389'
+          },
+          Ganja: {
+            name: 'Ganja',
+            shortCode: 'AZ-GA',
+            bounds: '46.2983707362,40.6225979781,46.4117920977,40.7246223051'
+          },
+          Mingachevir: {
+            name: 'Mingachevir',
+            shortCode: 'AZ-MI',
+            bounds: '46.9205782411,40.7253181024,47.0486841161,40.780534369'
+          },
+          Goychay: {
+            name: 'Goychay',
+            shortCode: 'AZ-GOY',
+            bounds: '47.5863773937,40.4416661654,48.047951288,40.6749594178'
+          },
+          Agdash: {
+            name: 'Agdash',
+            shortCode: 'AZ-AGS',
+            bounds: '47.2076924988,40.298419094,47.6187268414,40.7888542751'
+          },
+          Aghjabadi: {
+            name: 'Aghjabadi',
+            shortCode: 'AZ-AGC',
+            bounds: '47.0723519224,39.7080158551,47.7565995624,40.2537189805'
+          },
+          Shaki: {
+            name: 'Shaki',
+            shortCode: 'AZ-SA',
+            bounds: '47.1479840818,41.1554753151,47.2194238141,41.2415443443'
           }
        }
     },
