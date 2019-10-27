@@ -1,6 +1,6 @@
 {
   "name": "regions-bounds-ts",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "regions bounds for TS",
   "main": "lib/index.js",
   "types": "./lib/index.d.ts",
