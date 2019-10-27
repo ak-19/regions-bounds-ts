@@ -2598,6 +2598,11 @@ export const regionBoundMap = {
              "shortCode":"BE-VAN",
              "bounds":"4.18199832526,50.9921074488,5.26043379089,51.496237691"
           },
+          "Vlaandern":{
+            "name":"Vlaandern",
+            "shortCode":"BE-VAN",
+            "bounds":"4.18199832526,50.9921074488,5.26043379089,51.496237691"
+         },         
           "Limburg":{
              "name":"Limburg",
              "shortCode":"BE-VLI",
