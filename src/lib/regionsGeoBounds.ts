@@ -17592,10 +17592,10 @@ export const regionBoundMap = {
              "shortCode":"PH-MAS",
              "bounds":"122.94410241,11.725572007,124.072520379,13.153550523"
           },
-          "Metro Manila":{
-             "name":"Metro Manila",
-             "shortCode":"PH-00",
-             "bounds":"120.9062111,14.3480961,121.1350759,121.1350759"
+          "Metro Manila": {
+            "name": "Metro Manila",
+            "shortCode": "PH-00",
+            "bounds": "120.9062111,14.3480961,121.1350759,14.7874961"
           },
           "Mindoro Occidental":{
              "name":"Mindoro Occidental",
