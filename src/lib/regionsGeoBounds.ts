@@ -2350,37 +2350,47 @@ export const regionBoundMap = {
           }
        }
     },
-    "Bahrain":{
-       "countryName":"Bahrain",
-       "countryShortCode":"BH",
-       "regions":{
-          "Al Janubiyah":{
-             "name":"Al Janubiyah",
-             "shortCode":"BH-14",
-             "bounds":"50.460459832,25.5798909233,50.8198751417,26.1289032421"
-          },
-          "Al Manamah":{
-             "name":"Al Manamah",
-             "shortCode":"BH-13",
-             "bounds":"50.5020226282,26.1942406273,50.609141472,26.242499091"
-          },
-          "Al Muharraq":{
-             "name":"Al Muharraq",
-             "shortCode":"BH-15",
-             "bounds":"50.5995035303,26.2026400445,50.6843022826,26.2874387968"
-          },
-          "Al Wusta":{
-             "name":"Al Wusta",
-             "shortCode":"BH-16",
-             "bounds":"50.5099508652,26.0959322182,50.6456598132,26.1942406273"
-          },
-          "Ash Shamaliyah":{
-             "name":"Ash Shamaliyah",
-             "shortCode":"BH-17",
-             "bounds":"50.3805295369,26.0469781252,50.5516056647,26.242580471"
-          }
-       }
-    },
+    "Bahrain": {
+         "countryName": "Bahrain",
+         "countryShortCode": "BH",
+         "regions": {
+            "Capital Governorate": {
+               "name": "Capital Governorate",
+               "shortCode": "BH-CG",
+               "bounds": "50.51370679999999,26.1909103,50.62693119999999,26.262323"
+            },
+            "Muharraq Governorate": {
+               "name": "Muharraq Governorate",
+               "shortCode": "BH-MG",
+               "bounds": "50.576065,26.179169,50.721165,26.3312262"
+            },
+            "Al Janubiyah": {
+               "name": "Al Janubiyah",
+               "shortCode": "BH-14",
+               "bounds": "50.460459832,25.5798909233,50.8198751417,26.1289032421"
+            },
+            "Al Manamah": {
+               "name": "Al Manamah",
+               "shortCode": "BH-13",
+               "bounds": "50.5020226282,26.1942406273,50.609141472,26.242499091"
+            },
+            "Al Muharraq": {
+               "name": "Al Muharraq",
+               "shortCode": "BH-15",
+               "bounds": "50.5995035303,26.2026400445,50.6843022826,26.2874387968"
+            },
+            "Al Wusta": {
+               "name": "Al Wusta",
+               "shortCode": "BH-16",
+               "bounds": "50.5099508652,26.0959322182,50.6456598132,26.1942406273"
+            },
+            "Ash Shamaliyah": {
+               "name": "Ash Shamaliyah",
+               "shortCode": "BH-17",
+               "bounds": "50.3805295369,26.0469781252,50.5516056647,26.242580471"
+            }
+         }
+   },
     "Bangladesh":{
        "countryName":"Bangladesh",
        "countryShortCode":"BD",
